@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="ac_mode_array">
+        <item>Refrigerar</item>
+        <item>Aquecer</item>
+        <item>Desumidificar</item>
+        <item>Ventilar</item>
+    </string-array>
+    <string-array name="answer">
+        <item>Seu dispositivo só consegue ser pareado com Mi TV, Mi Box, e alguns dispositivos que utilizam Wi-Fi.</item>
+        <item>Certifique-se de que você selecionou o A/C correto no processo de pareamento. Siga as instruções no seu dispositivo até que o processo de pareamento concluído.</item>
+        <item>Não. No momento o controle remoto IR pode ser usado com o Mi4, Mi 4C e Redmi Note 2.</item>
+    </string-array>
+    <string-array name="epg_week_tab">
+        <item>Dom</item>
+        <item>Seg</item>
+        <item>Ter</item>
+        <item>Qua</item>
+        <item>Qui</item>
+        <item>Sex</item>
+        <item>Sáb</item>
+    </string-array>
+    <string-array name="question">
+        <item>Por que meu telefone continua procurando dispositivos sem fio?</item>
+        <item>Por que eu só consigo ligar o A/C e não consigo desligá-lo?</item>
+        <item>Posso usar o Mi 3, Mi 2 e Redmi como um controle remoto IR?</item>
+    </string-array>
+    <string-array name="voice_ac_help">
+        <item>Ligar o AC Haier na sala de estar</item>
+        <item>Definir temperatura em 25 graus</item>
+        <item>Definir direção do vento para \"Cima\"</item>
+    </string-array>
+    <string-array name="voice_fan_help">
+        <item>Ligar o AC Gree</item>
+        <item>Alternar para modo de oscilação</item>
+        <item>Aumentar velocidade do AC</item>
+    </string-array>
+    <string-array name="voice_stb_help">
+        <item>Ligar o set-top-box</item>
+        <item>Quero assistir a Hunan TV</item>
+        <item>Voltar para o canal 15</item>
+    </string-array>
+    <string-array name="voice_tips">
+        <item>Ligar AC</item>
+        <item>Quero assistir a Shenzhen TV</item>
+        <item>Voltar para o canal 12</item>
+    </string-array>
+    <string-array name="voice_tv_help">
+        <item>Ligar a TV do quarto</item>
+        <item>Desligar a TV</item>
+        <item>Aumentar o volume da TV</item>
+    </string-array>
+</resources>
