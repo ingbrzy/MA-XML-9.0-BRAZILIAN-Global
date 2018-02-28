@@ -20,7 +20,6 @@
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_toolbar_collapse_description">Recolher</string>
     <string name="search_menu_title">Pesquisar</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="ac_gree">A/C Gree</string>
     <string name="ac_mode_auto">Autom.</string>
     <string name="ac_mode_cold">Refrigerar</string>
@@ -95,7 +94,6 @@
     <string name="bind_stb">Continuar pareamento ao STB</string>
     <string name="bind_stb_dlg">Parear set-top box para mudar de canal</string>
     <string name="bind_stb_dlg_agree">Parear</string>
-    <string name="brand_device">%1$s %2$s</string>
     <string name="brand_search_box_hint">Selecionar fabricante</string>
     <string name="brand_title_all">Tudo</string>
     <string name="brand_title_hot">Popular</string>
@@ -292,7 +290,6 @@
     <string name="hot_videos">Popular</string>
     <string name="hour">h</string>
     <string name="humidity">Umidade:</string>
-    <string name="humidity_frame">%1$d%%</string>
     <string name="increase">Cima</string>
     <string name="input_complete">OK</string>
     <string name="input_source">Fonte de entrada</string>
@@ -349,7 +346,6 @@
     <string name="loading_ir_data">Aguarde…</string>
     <string name="locate_current_place">Encontrar localização atual</string>
     <string name="location_select">Renomear dispositivo</string>
-    <string name="lock_screen_device_sum">%1$d</string>
     <string name="login">Fazer login</string>
     <string name="login_directly">Fazer login</string>
     <string name="login_done">Conectado</string>
@@ -376,7 +372,6 @@
     <string name="match_data">Info. de pareamento</string>
     <string name="match_data_error_tips">"Não foi possível obter informações
  Volte para continuar"</string>
-    <string name="match_dataset_frame">%1$d/%2$d</string>
     <string name="match_direction_default">Os botões direcionais funcionaram?</string>
     <string name="match_dvd_intro_pause">Solte quando a reprodução do DVD pausar</string>
     <string name="match_dvd_intro_play">Solte quando o DVD começar a ser reproduzido</string>
@@ -785,8 +780,6 @@ Abra a configuração do controle, e toque em \"Compartilhar\"."</string>
     <string name="scaning">Pesquisando…</string>
     <string name="scanning_milink">Pesquisando dispositivos…</string>
     <string name="scene_default">Padrão</string>
-    <string name="scene_name_frame">%1$s %2$s%3$s</string>
-    <string name="scene_name_frame_short">%1$s%2$s</string>
     <string name="screenshot">Captura de tela</string>
     <string name="screenshot_failed">Não foi possível capturar a tela</string>
     <string name="screenshot_failed_and_check_connection">Não foi possível capturar a tela, verifique os dispositivos conectados</string>
@@ -890,7 +883,6 @@ Acesse a Página inicial > \"+\" > Leitor QR."</string>
     <string name="start_diagnosis">Testar</string>
     <string name="start_match">Parear</string>
     <string name="stb">Set-top box</string>
-    <string name="stb_detail_title_frame">%1$s - %2$d</string>
     <string name="stb_power">Ligar/Desligar STB</string>
     <string name="steps">Tentativa #%d</string>
     <string name="stop_diagnosis">Parar</string>

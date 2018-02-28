@@ -121,7 +121,6 @@
     <string name="shutdown_alarm_disable_summary">O alarme não tocará com o telefone desligado</string>
     <string name="shutdown_alarm_enable_summary">O alarme tocará com o telefone desligado</string>
     <string name="shutdown_alarm_title">Alarme com telefone desligado</string>
-    <string name="skip_alarm_date_format">%1$s (%2$s)</string>
     <string name="skip_alarm_once_hint">Desativar uma vez em %s</string>
     <string name="slider_text">Deslize para cima para desativar</string>
     <string name="snooze_confirm_cancel">Dispensar alarme</string>

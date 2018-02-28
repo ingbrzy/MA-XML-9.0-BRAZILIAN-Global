@@ -242,7 +242,6 @@ Total: %3$s RMB"</string>
     <string name="sending_shortcut">Enviando…</string>
     <string name="service_unavailiable">Serviço indisponível</string>
     <string name="share">Compartilhar</string>
-    <string name="shop_recommendation_format">%1$s: %2$s</string>
     <string name="smart_antispam">ID de chamada</string>
     <string name="toast_finish_delete_call_log">Registro de chamada excluído</string>
     <string name="toast_text_copied">Texto copiado</string>

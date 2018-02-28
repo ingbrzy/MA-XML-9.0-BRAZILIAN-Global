@@ -59,8 +59,6 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Sincronização</string>
     <string name="sync_dspt_provision">"Sincronize suas fotos, contatos, anotações e mais entre todos seus dispositivos ou acesse-os em "</string>
-    <string name="sync_dspt_provision2">i.mi.com</string>
-    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Você pode ativar ou desativar esta função a qualquer momento nas Configurações.
 "</string>
     <string name="sync_dspt_entrance_provision">"Sincronize suas fotos, contatos, registros de chamada e mensagens entre todos os seus dispositivos. Acesse o que você sincronizar a partir de qualquer navegador em %s. "</string>
@@ -72,8 +70,6 @@
     <string name="sync_dspt_entrance_provision_skip">Pular este passo</string>
     <string name="sync_dspt_entrance_provision_network">Este app precisa de uma conexão com a internet para funcionar normalmente. A sincronização de dados pode requerer uma conexão de dados móveis e o Wi-Fi ativados.</string>
     <string name="find_device_dspt_provision">Se você perder seu dispositivo, acesse %s para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar esta funcionalidade a qualquer momento nas Configurações.</string>
-    <string name="find_device_dspt_provision_2">i.mi.com</string>
-    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
     <string name="find_device_dspt_provision_4">Se você trocar seus cartões SIM, um SMS será enviado automaticamente para reativar este recurso.</string>
     <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
@@ -123,7 +119,6 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="find_device_error_server">Erro no servidor</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
     <string name="find_device_notice_p1">Acesse</string>
-    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar seu telefone.
 Se você trocar os cartões SIM, outro SMS será enviado para reativar esta função."</string>
     <string name="i_know">OK</string>
@@ -484,8 +479,6 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo ativado</string>
     <string name="micloud_find_device_open_fail">"Não foi possível ativar o 'Encontrar dispositivo'"</string>
     <string name="micloud_find_device_opened_content">Encontre seu dispositivo em %s</string>
-    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
-    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">Não foi possível reativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_close_fail">Não foi possível desativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_finish">Concluído</string>
@@ -565,8 +558,6 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_main_head_menu_state_close">Desativado</string>
     <string name="micloud_main_head_menu_state_unavailable">Indisponível</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo Espaço, você pode acessá-lo a partir do Primeiro Espaço.</string>
-    <string name="micloud_footer_normal_url">i.mi.com</string>
-    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Pagamentos com impressão digital</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>
