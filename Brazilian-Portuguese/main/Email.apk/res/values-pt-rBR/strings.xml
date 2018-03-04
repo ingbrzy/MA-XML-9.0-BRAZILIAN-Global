@@ -820,10 +820,8 @@ para receber lembretes sobre pagamentos e viagens"</string>
     <string name="recognize_hotel_other_money">Outras despesas %1$s</string>
     <string name="recognize_hotel_reverse_date">Faça o check-in antes de %1$s:%2$s %3$s</string>
     <string name="recognize_hotel_room_type">Quarto</string>
-    <string name="recognize_hotel_room_type_value">%1$s × %2$s</string>
     <string name="recognize_hotel_title">Reservas de Hotel</string>
     <string name="recognize_hotel_user_names">Acompanhante</string>
-    <string name="recognize_hotel_user_names_value">%1$s+%2$s</string>
     <string name="recognize_setting_title">Configurações de viagens</string>
     <string name="recognize_ticket_air_notification_content">Boa viagem!</string>
     <string name="recognize_ticket_air_notification_title">Voo %3$s (%2$s/%1$s) irá decolar em breve. Verifique suas informações de voo.</string>
