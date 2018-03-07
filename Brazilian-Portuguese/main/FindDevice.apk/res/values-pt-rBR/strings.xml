@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
     <string name="find_device_notice_p1">Vá para</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"para localizar, bloquear ou redefinir seu telefone.
 Se você trocar de cartões SIM, outro SMS será enviado automaticamente para reativar este recurso."</string>
     <string name="i_know">OK</string>
@@ -38,7 +39,7 @@ Se você trocar de cartões SIM, outro SMS será enviado automaticamente para re
     <string name="unlock_error_rpc">Erro de RPC</string>
     <string name="unlock_error_abort">Cancelado pelo usuário</string>
     <string name="unlock_error_passport_sdk_timeout">O SDK da Conta Mi não está respondendo</string>
-    <string name="open_wifi_settings">Open Wi-Fi settings</string>
+    <string name="open_wifi_settings">Abrir configurações de Wi-Fi</string>
     <string name="activate_xiaomi_account">Ativar este dispositivo</string>
     <string name="login_extra_steps">Verificação de login</string>
     <string name="phone_locked">Este dispositivo pode estar associado com a Conta Mi (%s). Faça o login nesta conta para ativar o dispositivo.</string>

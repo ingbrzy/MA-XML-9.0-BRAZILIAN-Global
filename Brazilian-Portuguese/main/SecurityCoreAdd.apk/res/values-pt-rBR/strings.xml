@@ -161,16 +161,32 @@ Mensagens aparecerão apenas no Segundo Espaço."</string>
 esta funcionalidade será adicionada ao Segundo Espaço automaticamente."</string>
     <string name="openSuccess">Ativado</string>
     <string name="closeSuccess">Desativado</string>
-    <string name="settings_notification_and_switch">Alternando &amp; notificações</string>
+    <string name="settings_set_password_for_owner_space">Defina um bloqueio de tela no Primeiro Espaço</string>
+    <string name="settings_set_password_for_owner_space_desc">Defina um bloqueio de tela no Primeiro Espaço para remover o atalho das Configurações.</string>
+    <string name="settings_set_password_for_sec_space">Defina um bloqueio de tela no Segundo Espaço</string>
+    <string name="settings_set_password_for_sec_space_desc">Defina um bloqueio de tela no Segundo Espaço para remover o atalho das Configurações.</string>
+    <string name="settings_notification_and_switch_owner_space">Configurações do Primeiro Espaço</string>
+    <string name="settings_second_space_entrance_title">Atalho nas Configurações</string>
+    <string name="settings_second_space_entrance_summary">Mostrar atalho para o Segundo Espaço nas Configurações</string>
+    <string name="settings_switch_shortcut_title">Atalho na Tela inicial</string>
+    <string name="settings_switch_space">Alternando entre espaços</string>
+    <string name="settings_notification_from_second_space_title">Mostrar notificações do Segundo Espaço</string>
+    <string name="settings_notification_and_switch_second_space">Configurações do Segundo Espaço</string>
+    <string name="settings_notification_from_owner_space_title">Mostrar notificações do Primeiro Espaço</string>
+    <string name="notification_from_owner_user">Mostrar notificações do Primeiro Espaço</string>
+    <string name="notification_from_second_user">Mostrar notificações do Segundo Espaço</string>
+    <string name="radio_button_icon_switch_title">Usando um atalho</string>
+    <string name="radio_button_password_switch_title">Usando uma senha</string>
     <string name="settings_cross_notification_title">Notificações</string>
     <string name="settings_cross_notification_summary">Receber notificações do outro Espaço</string>
-    <string name="settings_switch_shortcut_title">Toque no atalho para alternar</string>
     <string name="settings_switch_shortcut_summary">Mostrar atalho na Tela inicial do Primeiro Espaço</string>
     <string name="settings_space_data">Dados</string>
     <string name="settings_status_icon_title">Ícone do Segundo Espaço</string>
     <string name="settings_status_icon_summary">Mostrar ícone do Segundo Espaço na barra de status</string>
-    <string name="settings_msg_add_shortcut">Atalho adicionado ao Primeiro Espaço</string>
-    <string name="settings_msg_remove_shortcut">Atalho removido do Primeiro Espaço</string>
+    <string name="settings_msg_add_shortcut_to_owner_space">Atalho adicionado ao Primeiro Espaço</string>
+    <string name="settings_msg_add_shortcut_to_second_space">O atalho foi criado no Segundo Espaço</string>
+    <string name="settings_msg_remove_shortcut_from_owner_space">Atalho removido do Primeiro Espaço</string>
+    <string name="settings_msg_remove_shortcut_from_second_space">O atalho foi removido do Segundo Espaço</string>
     <string name="start_setting_guide_desc_title">Existem algumas coisas para configurar</string>
     <string name="setting_is_show_text_contacts">Configurar contatos e mensagens privadas</string>
     <string name="switch_data_app">Mover itens para o Segundo Espaço</string>
@@ -342,4 +358,14 @@ Se você não atualizar, os dual apps também podem não funcionar corretamente.
     <string name="sdcradfs_dialog_in_sec_message">"Para atualizar, você precisa excluir o seu Segundo Espaço e criá-lo novamente. Mova os dados do Segundo Espaço para o Primeiro Espaço e reinicie o dispositivo para concluir a atualização.
 Se você não atualizar, os dual apps podem não funcionar corretamente também."</string>
     <string name="space_created_success">Segundo Espaço criado com sucesso</string>
+    <string name="space_create_guide_title_1">Proteja sua privacidade</string>
+    <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>
+    <string name="space_create_guide_title_2">Crie a qualquer momento</string>
+    <string name="space_create_guide_desc_2">Espaço separado pronto para uso</string>
+    <string name="space_create_guide_title_3">Totalmente livre de riscos</string>
+    <string name="space_create_guide_desc_3">O Segundo Espaço não afeta outros itens no seu dispositivo</string>
+    <string name="space_create_guide_switchmode_title">Alternar entre espaços</string>
+    <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
+    <string name="second_space_desktop_tips_dialog_positive_text">Entendi</string>
+    <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo Espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
 </resources>

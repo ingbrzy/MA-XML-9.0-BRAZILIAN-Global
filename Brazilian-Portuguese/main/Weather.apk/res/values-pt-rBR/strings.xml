@@ -64,12 +64,13 @@
     <string name="button_abandon">Descartar alterações</string>
     <string name="button_add_city">Adicionar local</string>
     <string name="button_allow">OK</string>
-    <string name="button_confirm">Permitir</string>
-    <string name="button_exit">Sair</string>
+    <string name="button_confirm">Aceitar</string>
+    <string name="button_exit">Não aceitar</string>
     <string name="button_not_allow">Cancelar</string>
     <string name="button_sure_abandon">Descartar alterações?</string>
     <string name="card_vote_item_vs">VS</string>
     <string name="change_alert">Verifique sua conexão de rede e tente novamente</string>
+    <string name="china_version_first_start_network_msg">Ao usar este produto, você estará concordando com o %1$s e a %2$s da Xiaomi. Este app precisa de acesso à internet e à sua localização para funcionar normalmente.</string>
     <string name="city_exceeded_warning">Você pode adicionar até 10 cidades</string>
     <string name="commercial">Comercial</string>
     <string name="common_loading_text">Aguarde…</string>
@@ -90,6 +91,7 @@
     <string name="daily_forcast_wind_connect">%2$s %1$s</string>
     <string name="daily_forecast_detail">Detalhes da previsão</string>
     <string name="daily_forecast_detail_date">d/M</string>
+    <string name="daily_forecast_detail_date_format">%1$s - %2$s</string>
     <string name="daily_forecast_no_data">"Não foi possível obter as informações de clima
 Puxe para atualizar ou verifique as configurações de rede"</string>
     <string name="data_provided_by">Dados fornecidos por</string>
@@ -109,6 +111,8 @@ Puxe para atualizar ou verifique as configurações de rede"</string>
     <string name="global_aqi">IQA: %1$s %2$s</string>
     <string name="gps_hint">Localização atual</string>
     <string name="hourly_forcast_now">Agora</string>
+    <string name="hourly_forecast_bottom_aqi_chinese">%1$s %2$s</string>
+    <string name="hourly_forecast_bottom_aqi_else">%1$s</string>
     <string name="hourly_forecast_date">d/M</string>
     <string name="hourly_forecast_title">Previsão por hora</string>
     <string name="index_item_experience_now">Instalar agora</string>
@@ -133,11 +137,13 @@ Puxe para atualizar ou verifique as configurações de rede"</string>
     <string name="information_manager_extension">Extensão de clima</string>
     <string name="information_views" />
     <string name="install">Instalar</string>
+    <string name="install_progress">%1$s%%</string>
     <string name="international_detail_menu_title">Detalhes</string>
     <string name="international_details_pressure_title">PRESSÃO</string>
     <string name="international_details_real_feel_title">REAL FEEL®</string>
     <string name="international_details_title">Detalhes</string>
     <string name="international_details_uv_index_title">ÍNDICE UV</string>
+    <string name="international_details_wind_connect">%1$s %2$s</string>
     <string name="international_details_wind_title">VENTO</string>
     <string name="it_is_going_to_rain">Vai chover</string>
     <string name="locate_fail_detail_err">"Não foi possível localizar o dispositivo
@@ -148,7 +154,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="menu_location">Locais</string>
     <string name="menu_speaker">Transmissão de voz</string>
     <string name="mi_pad2">latte</string>
-    <string name="minute_rain">Previsão por minuto</string>
+    <string name="minute_rain">Previsão de chuva</string>
     <string name="minute_rain_after_an_hour">Em 1 hora</string>
     <string name="minute_rain_after_two_hour">Em 2 horas</string>
     <string name="minute_rain_feedback_subtitle">Diga-nos como está o clima agora.</string>
@@ -211,6 +217,7 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="share_subject">Compartilhar</string>
     <string name="share_title">Compartilhar clima</string>
     <string name="share_weather_desc">Clima MIUI: Hoje %1$s %2$s</string>
+    <string name="share_weather_desc_alert">%1$s%2$s</string>
     <string name="share_weather_desc_split">,</string>
     <string name="share_weather_save_pic_fail">Não foi possível capturar a tela</string>
     <string name="some_where_on_earth">Em algum lugar na terra</string>
@@ -262,4 +269,16 @@ Toque na tela para adicionar uma cidade manualmente"</string>
     <string name="xiaomi_weather_description_title">Sobre o Clima</string>
     <string name="yes_vote_ratio">Para %1$s%%</string>
     <string name="your_location">Sua localização</string>
+    <string name="button_settings_cancel">Cancelar</string>
+    <string name="button_settings_confirm">Revogar</string>
+    <string name="button_settings_confirm_to_revoke_msg">Você não será capaz de usar os serviços de Clima depois de revogar a autorização.</string>
+    <string name="button_settings_confirm_to_revoke_title">Revogar autorização?</string>
+    <string name="eu_region_version_first_start_network_msg">Ao usar este produto, você concorda que a Xiaomi irá coletar, processar e usar suas informações pessoais, incluindo coordenadas de cidades pesquisadas e outros tipos de dados especificados em nossa Política de Privacidade. Leia a nossa Política de Privacidade para aprender como coletamos e processamos estas informações. Ao tocar em \"Aceitar\", você estará concordando com o %1$s e a %2$s.</string>
+    <string name="policy_settings">Termos e condições</string>
+    <string name="privacy_grant_failed">Não foi possível conceder a autorização. Aguarde alguns minutos e tente novamente.</string>
+    <string name="privacy_grant_or_revoke_settings">Conceder &amp; revogar autorização</string>
+    <string name="privacy_grant_success">Autorização concedida com sucesso</string>
+    <string name="privacy_revoke_failed">Não foi possível revogar a autorização. Aguarde alguns minutos e tente novamente.</string>
+    <string name="privacy_revoke_success">Autorização revogada com sucesso</string>
+    <string name="privacy_settings">Política de Privacidade</string>
 </resources>

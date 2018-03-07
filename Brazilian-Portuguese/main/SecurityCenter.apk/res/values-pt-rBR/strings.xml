@@ -71,6 +71,16 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="dlg_add_white">Novas chamadas e mensagens de números adicionados às exceções serão exibidos no histórico de chamada e nas Mensagens. Entretanto, itens bloqueados anteriormente não aparecerão lá. Adicionar números selecionados às exceções?</string>
     <string name="dlg_not_block_sms">Desbloquear os números selecionados? Eles serão adicionados às exceções, mas os itens bloqueados anteriormente não aparecerão nas Mensagens.</string>
     <string name="dlg_not_block_call">Desbloquear os números selecionados? Eles serão adicionados às exceções, mas itens bloqueados anteriormente não aparecerão no histórico de chamadas.</string>
+    <string name="dlg_update_date_title">Alerta</string>
+    <string name="dlg_update_data_content">Você não está conectado a uma rede Wi-Fi. Usar a conexão de dados móveis poderá gerar custos adicionais. Continuar mesmo assim?</string>
+    <string name="dlg_sec_network_unavailable">O app Segurança não pode ser atualizado porque você restringiu o seu acesso à internet. Permitir que o app Segurança conecte-se à internet?</string>
+    <string name="dlg_update_btn_contiue">Continuar</string>
+    <string name="dlg_update_btn_open">Permitir</string>
+    <string name="dlg_update_updating">Atualizando…</string>
+    <string name="toast_update_nonetwork">Não foi possível conectar-se à rede</string>
+    <string name="toast_update_fail">Não foi possível atualizar</string>
+    <string name="toast_update_success">Atualizado com sucesso</string>
+    <string name="toast_update_notneed">Atualizado</string>
     <string name="menu_call">Chamar</string>
     <string name="menu_sms">Enviar mensagem</string>
     <string name="menu_bl_call_log">Ver chamadas bloqueadas</string>
@@ -251,6 +261,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="mark_time_text">%d</string>
     <string name="mark_time_setting_dialog_title">Reportar número</string>
     <string name="sms_smart_engine_update">Atualizar filtro de SMS autom.</string>
+    <string name="sms_smart_engine_update_now">Atualizar</string>
     <string name="mark_number_setting_guide_title">Bloquear números reportados</string>
     <string name="mark_number_setting_guide_content1">Bloquear chamadas de números reportados?</string>
     <string name="mark_number_setting_guide_content2">Bloquear automaticamente chamadas de números reportados por outros usuários</string>
@@ -304,6 +315,7 @@ Ele será adicionado às exceções, mas os itens bloqueados anteriormente não 
     <string name="cta_dialog_title">Conexão com a internet</string>
     <string name="cta_dialog_msg">O Centro de Segurança precisa de uma conexão com a internet para obter atualizações e acesso à sua localização para funcionar normalmente.</string>
     <string name="cta_settings">Permitir conexão com a Internet</string>
+    <string name="gdpr_msg"><Data>Para usar os recursos básicos do app Segurança, você deve concordar que a Xiaomi coletará, processará e usará os seus dados pessoais, incluindo informações sobre as formar que você usa os recursos do app (ex.: estatísticas de uso de dados, informações sobre malware, assim como informações básicas sobre o seu dispositivo e outros tipos de informações especificados na nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a>.</Data></string>
     <string name="app_name_na">Uso de dados</string>
     <string name="list_empty_text">Vazio</string>
     <string name="dialog_title_attention">Atenção</string>
@@ -383,6 +395,12 @@ da operadora"</string>
     <string name="firewall_wifi_dialog_message">O app instalado não será capaz de conectar-se à internet usando o Wi-Fi quando esta opção estiver desativada.</string>
     <string name="firewall_system_title">Uso de dados para apps do sistema</string>
     <string name="firewall_temp_rule_reason">%2$s restringiu a conexão com a internet do app %1$s</string>
+    <string name="dialog_restrict_all_wlan_title">Restringir conexão Wi-Fi</string>
+    <string name="dialog_restrict_all_wlan_summary">A conexão Wi-Fi será restringida para todos os apps depois disso.</string>
+    <string name="dialog_restrict_all_mobile_title">Restringir conexão de dados móveis do %s</string>
+    <string name="dialog_restrict_all_mobile_summary">A conexão de dados móveis do %s será restringida para todos os apps depois disso.</string>
+    <string name="dialog_restrict_positive">Cancelar</string>
+    <string name="dialog_restrict_negative">Restringir</string>
     <string name="usage_sorted_activity_lable">Uso de dados</string>
     <string name="usage_sorted_loading_text">Aguarde…</string>
     <string name="usage_sorted_empty_text">Vazio</string>
@@ -405,6 +423,7 @@ da operadora"</string>
     <string name="detail_app_button">Info do app</string>
     <string name="pref_about_traffic_title">Configurações do uso de dados</string>
     <string name="pref_traffic_manage_title">Uso de dados</string>
+    <string name="pref_operator_setting">%1$s %2$s</string>
     <string name="pref_package_traffic_settings">Plano de dados</string>
     <string name="pref_adjust_traffic_data">Definir limite de dados</string>
     <string name="pref_category_title_other">Configurações adicionais</string>
@@ -517,6 +536,12 @@ da operadora"</string>
     <string name="leisure_usage_dialog_message">"Você atingiu seu limite de dados.
 
 Sua operadora poderá cobrar tarifas adicionais se continuar a usar a conexão a partir de agora."</string>
+    <string name="data_usage_protected_notify_title">Você já usou 5GB de dados móveis</string>
+    <string name="data_usage_protected_notify_message">O MIUI desativou os dados móveis para impedir que você receba cobranças adicionais da operadora.</string>
+    <string name="data_usage_mobile_dialog_title">Você já usou 5GB de dados móveis. O MIUI desativou os dados móveis.</string>
+    <string name="data_usage_protected_dialog_message">"O MIUI desativou os dados móveis para impedir a geração de tarifas adicionais com a sua operadora.
+
+A sua operadora poderá cobrar tarifas adicionais se você ativar os dados móveis novamente."</string>
     <string name="lock_screen_traffic_warn_title">Notificações na tela de bloqueio</string>
     <string name="lock_screen_traffic_notify_body">Bloqueado por %2$s às %1$s, %3$s de dados usados</string>
     <string name="timeshow_s">%ds</string>
@@ -918,6 +943,7 @@ Sua atividade reduz a duração da bateria."</string>
     <string name="om_formatted_percent_string">%s%%</string>
     <string name="om_cpu_usage_warn_title_text">"Este app pode diminuir a
 velocidade do seu dispositivo"</string>
+    <string name="om_memory_clean_memory_info_text">%1$s / %2$s</string>
     <string name="om_ill_proc_handle_unstaill_title">Desinstalar %s?</string>
     <string name="om_ill_proc_handle_uninstall_prompt">Desinstale este app para corrigir problemas de uso de bateria.</string>
     <string name="om_ill_proc_type_wakelock_title">O app está bloqueando o modo de suspensão e descarregando a bateria</string>
@@ -1322,6 +1348,7 @@ velocidade do seu dispositivo"</string>
     <string name="menu_text_networkassistants">Uso de dados</string>
     <string name="menu_text_networkassistants_remain">%s restante</string>
     <string name="menu_text_networkassistants_danger">%s excedido</string>
+    <string name="menu_text_networkassistants_data">%1$s%2$s</string>
     <string name="menu_text_networkassistants_unit_gb">GB</string>
     <string name="menu_text_networkassistants_unit_mb">MB</string>
     <string name="menu_text_networkassistants_unit_kb">KB</string>
@@ -1682,6 +1709,7 @@ velocidade do seu dispositivo"</string>
     <string name="card_main_deepclean_wechat_action">Limpar</string>
     <string name="card_main_sectool_title">Ferramentas</string>
     <string name="card_main_monthreport_action">Ver</string>
+    <string name="card_main_speeddetail_action">@string/card_main_monthreport_action</string>
     <string name="card_main_netcheck_title">Testar rede</string>
     <string name="card_main_netcheck_summary">Testar conexão por problemas de rede</string>
     <string name="card_main_netcheck_action">Testar</string>

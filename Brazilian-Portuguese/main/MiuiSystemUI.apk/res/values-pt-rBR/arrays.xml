@@ -38,6 +38,84 @@
         <item>Usar verificação de HDCP para conteúdo de DRM</item>
         <item>Sempre usar verificação HDCP</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_versions">
+        <item>AVRCP 1.4 (padrão)</item>
+        <item>AVRCP 1.5</item>
+        <item>AVRCP 1.6</item>
+    </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_titles">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ativar codecs opcionais</item>
+        <item>Desativar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_summaries">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>SBC</item>
+        <item>AAC</item>
+        <item>aptX</item>
+        <item>aptX HD</item>
+        <item>LDAC</item>
+        <item>Ativar codecs opcionais</item>
+        <item>Desativar codecs opcionais</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_titles">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>44,1 kHz</item>
+        <item>48 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_sample_rate_summaries">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>44,1 kHz</item>
+        <item>48 kHz</item>
+        <item>88,2 kHz</item>
+        <item>96 kHz</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_titles">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_bits_per_sample_summaries">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>16 bits/amostra</item>
+        <item>24 bits/amostra</item>
+        <item>32 bits/amostra</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_titles">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_channel_mode_summaries">
+        <item>Usar seleção do sistema (padrão)</item>
+        <item>Mono</item>
+        <item>Estéreo</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_titles">
+        <item>Otimizado para qualidade de áudio (990 kbps/909 kbps)</item>
+        <item>Qualidade de áudio e de conexão balanceada (660 kbps/606 kbps)</item>
+        <item>Otimizado para qualidade de conexão (330 kbps/303 kbps)</item>
+        <item>Melhor resultado (Taxa de bits adaptável)</item>
+    </string-array>
+    <string-array name="bluetooth_a2dp_codec_ldac_playback_quality_summaries">
+        <item>Otimizado para qualidade de áudio</item>
+        <item>Qualidade de áudio e de conexão balanceada</item>
+        <item>Otimizado para qualidade de conexão</item>
+        <item>Melhor resultado (Taxa de bits adaptável)</item>
+    </string-array>
     <string-array name="select_logd_size_titles">
         <item>Desativado</item>
         <item>64KB</item>
@@ -59,6 +137,18 @@
         <item>1MB por buffer de log</item>
         <item>1MB por buffer de log</item>
         <item>1MB por buffer de log</item>
+    </string-array>
+    <string-array name="select_logpersist_titles">
+        <item>Desativado</item>
+        <item>Todos</item>
+        <item>Todos, exceto o rádio</item>
+        <item>somente kernel</item>
+    </string-array>
+    <string-array name="select_logpersist_summaries">
+        <item>Desativado</item>
+        <item>Todos os buffers de registro</item>
+        <item>Todos, exceto os buffers de registro de rádio</item>
+        <item>somente buffer de registro de kernel</item>
     </string-array>
     <string-array name="window_animation_scale_entries">
         <item>Animação desativada</item>
@@ -122,6 +212,10 @@
         <item>Mostrar áreas de overdraw</item>
         <item>Mostrar áreas para deuteronomia</item>
     </string-array>
+    <string-array name="debug_hw_renderer_entries">
+        <item>OpenGL (padrão)</item>
+        <item>OpenGL (Skia)</item>
+    </string-array>
     <string-array name="app_process_limit_entries">
         <item>Limite padrão</item>
         <item>Nenhum processo em seg. plano</item>
@@ -148,6 +242,17 @@
         <item>Rápida</item>
         <item>Muito rápida</item>
         <item>Super-rápida</item>
+    </string-array>
+    <string-array name="tts_rate_values">
+        <item>60</item>
+        <item>80</item>
+        <item>100</item>
+        <item>150</item>
+        <item>200</item>
+        <item>250</item>
+        <item>300</item>
+        <item>350</item>
+        <item>400</item>
     </string-array>
     <string-array name="color_mode_names">
         <item>Vibrante (padrão)</item>

@@ -169,6 +169,7 @@
     <string name="color_picker_dialog_title">Selecionar cor</string>
     <string name="color_picker_hue">Matiz</string>
     <string name="color_picker_saturation">Saturação</string>
+    <string name="color_picker_value">Valor</string>
     <string name="comment_app_menu">Comentário</string>
     <string name="comment_description">Comentário</string>
     <string name="comment_hint">Comentário</string>
@@ -515,10 +516,10 @@ Sair desta página?"</string>
     <string name="nav_bottom_bar_new_tab">Nova guia</string>
     <string name="nav_screen_container_tab_incognito">Guia anônima</string>
     <string name="nav_screen_container_tab_normal">Guia normal</string>
-    <string name="nav_screen_incognito_message">"Your browsing and search history won't be saved in Incognito mode.
-Remember that the files you download and the bookmarks you add will still be saved."</string>
-    <string name="nav_screen_incognito_title">Incongnito mode</string>
-    <string name="navigation_delete_all">swipe left and right to close all tabs</string>
+    <string name="nav_screen_incognito_message">"O seu histórico de navegação e pesquisas não serão salvos no Modo incógnito.
+Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão salvos ainda assim."</string>
+    <string name="nav_screen_incognito_title">Modo incógnito</string>
+    <string name="navigation_delete_all">deslize para a esquerda e direita para fechar todas as guias</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Pesquisar</string>

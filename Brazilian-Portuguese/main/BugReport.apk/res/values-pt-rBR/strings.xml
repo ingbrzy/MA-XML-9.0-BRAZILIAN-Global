@@ -57,6 +57,7 @@
     <string name="save_pic_success">Imagem salva em %s</string>
     <string name="save_pic_fail">Não foi possível salvar imagem, verifique seu cartão SD</string>
     <string name="pic_not_exist">Esta imagem não existe</string>
+    <string name="pic_view_format">%1$s\"/\"%2$s</string>
     <string name="michat_skillset_product_title">Selecionar produto</string>
     <string name="michat_skillset_business_type_title">Selecionar serviço</string>
     <string name="michat_close_text">Chat encerrado</string>
@@ -162,9 +163,9 @@
     <string name="cta_confirm">OK</string>
     <string name="submit_dialog_title">Enviar relatório</string>
     <string name="submit_dialog_content">Seu feedback, junto com anexos e logs, será enviado para os servidores do MIUI. Eles poderão conter informações pessoais ou dados de localização.</string>
-    <string name="submit_dialog_content_global">"Your feedback, along with attachments (if any) and logs (you can uncheck the corresponding boxes for the items you don't want to upload) will be sent to MIUI's servers and a restricted section of MIUI Forum for developers for analysis and further communication. Logs may contain personal info and your location data."</string>
-    <string name="submit_dialog_cancel">Cancelar</string>
-    <string name="submit_dialog_confirm">Enviar</string>
+    <string name="submit_dialog_content_global">O seu feedback, junto com anexos (caso existam) e logs (você pode desmarcar as caixas correspondentes para os itens que você não quer enviar) serão enviados aos servidores do MIUI e a uma seção restrita do Fórum MIUI para desenvolvedores. Informações sobre os seus tópicos e atividades do fórum também serão coletados para análise e comunicação posterior. Os logs podem conter informações pessoais e seus dados de localização.</string>
+    <string name="submit_dialog_cancel">Não aceitar</string>
+    <string name="submit_dialog_confirm">Aceitar</string>
     <string name="mobile_data_note_dialog_title">Alerta de uso de dados</string>
     <string name="mobile_data_note_dialog_content">Usar os dados móveis para o upload dos logs poderá gerar tarifas adicionais.</string>
     <string name="mobile_data_note_dialog_content_with_file_size">Fazer o upload dos logs usando os dados móveis precisará de %sMB de dados.</string>
@@ -177,7 +178,7 @@
     <string name="modem_tool_log_finish_title">Log do modem capturado</string>
     <string name="modem_tool_log_finish_desc">Log salvo como %s</string>
     <string name="bugreport_dialog_not_show_again">Não mostrar novamente</string>
-    <string name="bugreport_dialog_submit_content">"You're saving software logs on this device now. Logs may contain personal info and your location data. Don't share logs with anyone else if you don't want this info to be exposed."</string>
+    <string name="bugreport_dialog_submit_content">Você está salvando logs do software neste dispositivo agora. Os logs podem conter informações pessoais e seus dados de localização. Não compartilhe logs com ninguem se você não quer que esta informação seja exposta.</string>
     <string name="bugreport_dump_start_notification_title">Gerando relatório de erros…</string>
     <string name="bugreport_dump_start_notification_summary">Isto pode levar vários minutos.</string>
     <string name="bugreport_dump_complete_notification_title">Relatório de erros criado</string>

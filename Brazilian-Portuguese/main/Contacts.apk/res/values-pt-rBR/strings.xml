@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Registro de chamadas detalhado</string>
     <string name="accessibility_contact_detail">Detalhes do contato</string>
     <string name="account_container_title">Importado de</string>
@@ -97,6 +98,7 @@
     <string name="call_sim_menu_title_suffix">(Primário)</string>
     <string name="call_telex">Ligar para telex</string>
     <string name="call_tty_tdd">Ligar para TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Ligar para trabalho</string>
     <string name="call_work_mobile">Ligar para celular comercial</string>
@@ -209,6 +211,8 @@
     <string name="contact_detail_calllog_call_note_tips">Anotações</string>
     <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
     <string name="contact_detail_calllog_empty">Nenhum registro</string>
+    <string name="contact_detail_entry_pay">Pagar</string>
+    <string name="contact_detail_entry_pay_dialog_title">Selecionar número de telefone</string>
     <string name="contact_detail_menu_delete_miprofile">Excluir cartão</string>
     <string name="contact_detail_miprofile_accept">Trocar cartões de contato</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Não foi possível trocar cartões de contato</string>
@@ -483,6 +487,7 @@ Motivo: \"%s\""</string>
     <string name="force_touch_new_contact">Novo contato</string>
     <string name="foundTooManyContacts">Mais de %d encontrados.</string>
     <string name="frequentList">Frequente</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
     <string name="gallery">Galeria</string>
     <string name="generic_no_account_prompt">Mantenha seus contatos seguros, mesmo se você perder seu telefone: sincronize com um serviço on-line.</string>
@@ -665,6 +670,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_contact_header">Contatos com cartões de contato</string>
     <string name="miprofile_contact_meaasge">Contatos locais</string>
     <string name="miprofile_contact_verifying">Verificando</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_error_accept_self">Não é possível trocar o seu próprio cartão de contato</string>
     <string name="miprofile_error_no_miaccount">Fazer login em sua Conta Mi</string>
@@ -808,6 +814,8 @@ Motivo: \"%s\""</string>
     <string name="path_wipe_data">Apps do sistema/Contatos/Organizar contatos/Limpar dados</string>
     <string name="payphone">Telefone público</string>
     <string name="people">Contatos</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefone</string>
     <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Número muito longo</string>
@@ -858,7 +866,7 @@ Motivo: \"%s\""</string>
     <string name="preference_contacts_display">Preferências de exibição</string>
     <string name="preference_contacts_filter">Listas a serem exibidas</string>
     <string name="preference_contacts_more">Organizar contatos</string>
-    <string name="preference_contacts_moresetting">More</string>
+    <string name="preference_contacts_moresetting">Mais</string>
     <string name="preference_dial_pad_touch_tone_default">Padrão</string>
     <string name="preference_dial_pad_touch_tone_human">Voz</string>
     <string name="preference_dial_pad_touch_tone_piano">Piano</string>
@@ -866,7 +874,7 @@ Motivo: \"%s\""</string>
     <string name="preference_dial_pad_touch_tone_title">Tons do teclado de discagem</string>
     <string name="preference_display">Exibição</string>
     <string name="preference_displayOptions">Opções de exibição</string>
-    <string name="preference_display_contact">Display options</string>
+    <string name="preference_display_contact">Opções de exibição</string>
     <string name="preference_export">Exportar</string>
     <string name="preference_import">Importar</string>
     <string name="preference_import_export">Importar/Exportar</string>
@@ -1050,6 +1058,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="sim_unloaded">O cartão SIM não está instalado</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nenhum membro no grupo</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Empresas</string>
     <string name="smart_group_company_unavailable">Nenhuma informação de empresa</string>
     <string name="smart_group_frequency_1">No último mês</string>
@@ -1181,6 +1190,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="voip_audio_description">Chamada VoIP</string>
     <string name="voip_video_description">Videochamada VoIP</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Limpar dados</string>
     <string name="yellowPageNavigationIconLabel">Páginas amarelas</string>
     <string name="yellowPageNavigationLabel">Páginas amarelas</string>

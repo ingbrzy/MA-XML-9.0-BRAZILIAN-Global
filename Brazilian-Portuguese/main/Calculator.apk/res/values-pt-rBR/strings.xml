@@ -53,6 +53,7 @@
     <string name="switchDesc">Alternar</string>
     <string name="scannerDesc">Leitor QR</string>
     <string name="reciprocalDesc">Recíproco</string>
+    <string name="negDesc">Trocar entre temperaturas abaixo e acima de zero</string>
     <string name="home_title_calculator">Calculadora</string>
     <string name="item_title_calculator">Calculadora</string>
     <string name="item_title_scientific_calculator">Científica</string>
