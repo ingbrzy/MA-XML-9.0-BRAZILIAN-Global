@@ -379,7 +379,6 @@
     <string name="pref_camera_zoom_mode_entry_tele">TELEPHOTO</string>
     <string name="pref_camera_zoom_mode_entry_standard">PADRÃO</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">HIGH PIXEL</string>
-    <string name="pref_camera_zoom_value_title">Zoom</string>
     <string name="pref_camera_portrait_mode_title">Modo retrato</string>
     <string name="pref_camera_portrait_mode_entry_off">Modo retrato desativado</string>
     <string name="pref_camera_portrait_mode_entry_on">Modo retrato ativado</string>
@@ -403,7 +402,6 @@ e destaca quem está à frente."</string>
     <string name="pref_camera_beautify_entry_low">Baixo</string>
     <string name="pref_camera_beautify_entry_normal">Médio</string>
     <string name="pref_camera_beautify_entry_high">Alto</string>
-    <string name="pref_camera_beautify_entry_close">@string/face_beauty_close</string>
     <string name="camera_mode_options">Modos</string>
     <string name="button_front_camera_title">Tirar uma selfie</string>
     <string name="button_normal_video_title">Gravar vídeo</string>

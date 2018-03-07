@@ -147,6 +147,5 @@ Tente novamente em %d segundos."</string>
     <string name="do_disclosure_with_name">Este dispositivo é gerenciado por %s</string>
     <string name="face_unlock_reenter_title">Grave seus dados faciais novamente.</string>
     <string name="face_unlock_reenter_content">O algoritmo do desbloqueio facial está sendo atualizado. Toque para gravar os dados faciais novamente.</string>
-    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">Carrossel de Planos de fundo</string>
 </resources>
