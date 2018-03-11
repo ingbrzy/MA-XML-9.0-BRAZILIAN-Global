@@ -563,7 +563,6 @@ Motivo: \"%s\""</string>
     <string name="keep_local">Não sincronizar</string>
     <string name="keep_local_btn">Usar o armazenamento interno</string>
     <string name="label_custom_type">Personalizado</string>
-    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Nenhum contato duplicado</string>
     <string name="label_notes">Anotações</string>
     <string name="label_sip_address">Chamada pela internet</string>
@@ -811,7 +810,6 @@ Motivo: \"%s\""</string>
     <string name="payphone">Telefone público</string>
     <string name="people">Contatos</string>
     <string name="phoneLabelsGroup">Telefone</string>
-    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Número muito longo</string>
     <string name="phone_primary">Primário</string>
     <string name="photoPickerNotFoundText">Nenhuma imagem disponível no telefone.</string>

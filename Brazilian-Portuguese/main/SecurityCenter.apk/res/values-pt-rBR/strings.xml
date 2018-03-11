@@ -1000,7 +1000,6 @@ velocidade do seu dispositivo"</string>
     <string name="usage_type_data_send">Dados móveis enviados</string>
     <string name="usage_type_no_coverage">Período sem sinal</string>
     <string name="usage_type_gps">GPS</string>
-    <string name="process_kernel_label">Android</string>
     <string name="process_mediaserver_label">Servidor de mídia</string>
     <string name="power_screen">Tela</string>
     <string name="power_wifi">Wi-Fi</string>
