@@ -59,6 +59,8 @@
     <string name="sync_dspt_provision_title">Mi Cloud</string>
     <string name="sync_dspt_provision_header">Sincronização</string>
     <string name="sync_dspt_provision">"Sincronize suas fotos, contatos, anotações e mais entre todos seus dispositivos ou acesse-os em "</string>
+    <string name="sync_dspt_provision2">i.mi.com</string>
+    <string name="sync_dspt_provision2_int">www.mi.com/micloud</string>
     <string name="sync_dspt_provision3">". Você pode ativar ou desativar esta função a qualquer momento nas Configurações.
 "</string>
     <string name="sync_dspt_entrance_provision">"Sincronize suas fotos, contatos, registros de chamada e mensagens entre todos os seus dispositivos. Acesse o que você sincronizar a partir de qualquer navegador em %s. "</string>
@@ -70,6 +72,8 @@
     <string name="sync_dspt_entrance_provision_skip">Pular este passo</string>
     <string name="sync_dspt_entrance_provision_network">Este app precisa de uma conexão com a internet para funcionar normalmente. A sincronização de dados pode requerer uma conexão de dados móveis e o Wi-Fi ativados.</string>
     <string name="find_device_dspt_provision">Se você perder seu dispositivo, acesse %s para localizá-lo, bloqueá-lo ou apagá-lo. Você pode ativar ou desativar esta funcionalidade a qualquer momento nas Configurações.</string>
+    <string name="find_device_dspt_provision_2">i.mi.com</string>
+    <string name="find_device_dspt_provision_2_int">www.mi.com/micloud</string>
     <string name="find_device_dspt_provision_3">. Você pode ativar ou desativar este recurso a qualquer momento nas Configurações.</string>
     <string name="find_device_dspt_provision_4">Se você trocar seus cartões SIM, um SMS será enviado automaticamente para reativar este recurso.</string>
     <string name="find_device_send_sms_alert">Se você trocar seu cartão SIM, outro SMS será enviado automaticamente para reativar este recurso.</string>
@@ -119,6 +123,7 @@ Esta função criptografa e envia a ID do seu dispositivo para os servidores da 
     <string name="find_device_error_server">Erro no servidor</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
     <string name="find_device_notice_p1">Acesse</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"para localizar, bloquear ou restaurar seu telefone.
 Se você trocar os cartões SIM, outro SMS será enviado para reativar esta função."</string>
     <string name="i_know">OK</string>
@@ -168,8 +173,7 @@ Se você trocar os cartões SIM, outro SMS será enviado para reativar esta fun�
     <string name="micloud_user_space_usage">Espaço de armazenamento</string>
     <string name="micloud_web_discription_01">Faça o login em i.mi.com</string>
     <string name="micloud_web_discription_02">para armazenar e acessar seus arquivos de qualquer lugar</string>
-    <string name="micloud_web_discription">Visite i.mi.com</string>
-    <string name="micloud_web_discription_international">Visite www.mi.com/micloud</string>
+    <string name="micloud_web_discription_place_holder">Visite %1$s</string>
     <string name="micloud_full_influence_title">Quando sua Mi Cloud está cheia…</string>
     <string name="micloud_warn_low_title">Quase sem espaço</string>
     <string name="micloud_warn_low_sum">Sua Mi Cloud está 90% cheia.</string>
@@ -300,13 +304,13 @@ Use uma conta diferente."</string>
     <string name="micloud_privacy_cloud_off">Sincronização desativada</string>
     <string name="micloud_privacy_licence_agreed">Aceitar a Política de Privacidade da Mi Cloud.</string>
     <string name="micloud_privacy_licence_privacy_policy">Política de Privacidade</string>
-    <string name="micloud_privacy_explanation">Ative a Mi Cloud depois de ativar a autorização</string>
-    <string name="micloud_privacy_cloud_sync">Ativar Mi Cloud</string>
-    <string name="micloud_privacy_warning_title">Dica</string>
-    <string name="micloud_privacy_warning_content">Não é possível ativar a Mi Cloud. Tente novamente mais tarde.</string>
+    <string name="micloud_privacy_explanation">Grant authorization to turn on Mi Cloud services</string>
+    <string name="micloud_privacy_cloud_sync">Turn on Mi Cloud services</string>
+    <string name="micloud_privacy_warning_title">Attention</string>
+    <string name="micloud_privacy_warning_content">"Can't turn on Mi Cloud services. Wait a minute or two and try again."</string>
     <string name="micloud_privacy_warning_button">Voltar</string>
-    <string name="micloud_privacy_progress_content">Autorizando</string>
-    <string name="micloud_privacy_more">Mais</string>
+    <string name="micloud_privacy_progress_content">Granting authorization…</string>
+    <string name="micloud_privacy_more">More</string>
     <string name="micloud_check_sim_title">"Parece que você trocou seus cartões SIM.
 Faça o login em sua Conta Mi para reativar a Mi Cloud."</string>
     <string name="micloud_check_sim_notify_title">Reativar Mi Cloud</string>
@@ -467,7 +471,7 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_notif_content_multi_user_error">Você fez o login na mesma conta presente em seu Primeiro Espaço.</string>
     <string name="micloud_notif_title_dirty_data">Você tem itens não sincronizados</string>
     <string name="micloud_notif_content_dirty_data">Detalhes</string>
-    <string name="micloud_notif_title_privacy_reopen_failed">Não foi possível iniciar o serviço de nuvem</string>
+    <string name="micloud_notif_title_privacy_reopen_failed">"Couldn't turn on Mi Cloud services"</string>
     <string name="micloud_notif_content_privacy_reopen_failed">Ver detalhes</string>
     <string name="micloud_find_device_guide_title">Faça o login em &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font> para localizar, bloquear ou apagar seu dispositivo. Isso ajuda-o a encontrar seu dispositivo caso o perca.&lt;br />Se você perder seu dispositivo, você pode contactar o serviço de segurança de apps que você usa (ex.: Alipay, WeChat, QQ) para proteger suas contas no &lt;font color=#FF0000>&lt;b>i.mi.com&lt;/b>&lt;/font>.</string>
     <string name="micloud_find_device_guide_content">Um SMS pode ser necessário para ativar este serviço. Sua operadora irá cobrá-lo por esta mensagem. Ao trocar de cartões SIM, uma mensagem será enviada automaticamente para reativar este recurso.</string>
@@ -480,6 +484,8 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_find_device_opened">Encontrar dispositivo ativado</string>
     <string name="micloud_find_device_open_fail">"Não foi possível ativar o 'Encontrar dispositivo'"</string>
     <string name="micloud_find_device_opened_content">Encontre seu dispositivo em %s</string>
+    <string name="micloud_find_device_opened_content_url">i.mi.com</string>
+    <string name="micloud_find_device_opened_content_url_int">www.mi.com/micloud</string>
     <string name="micloud_find_device_verify_fail">Não foi possível reativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_close_fail">Não foi possível desativar o Encontrar dispositivo</string>
     <string name="micloud_find_device_finish">Concluído</string>
@@ -505,8 +511,8 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_find_device_close_alert_content">Se você desativar este recurso, você não conseguirá localizar seu dispositivo caso ele seja perdido.</string>
     <string name="micloud_find_device_close_alert_positive">Manter ativo</string>
     <string name="micloud_find_device_close_alert_negtive">Desativar mesmo assim</string>
-    <string name="find_device_gdpr_prompt">Ao ativar o Encontrar dispositivo, você estará concordando com a \"Política de Privacidade\". Se você precisar revogar a autorização, desative este recurso.</string>
-    <string name="find_device_gdpr_prompt_policy_doc_name">\"Política de Privacidade\"</string>
+    <string name="find_device_gdpr_prompt">By turning on Find device, you agree to our Privacy Policy. If you need to revoke authorization, turn this feature off.</string>
+    <string name="find_device_gdpr_prompt_policy_doc_name">Privacy Policy</string>
     <string name="activate_finddevice">Conecte-se à internet para ativar o dispositivo</string>
     <string name="account_related">Este dispositivo já está associado a uma Conta Mi (%s). Conecte-se à internet para ativar o dispositivo.</string>
     <string name="connect_network">Conecte-se ao Wi-Fi ou insira um cartão SIM</string>
@@ -559,6 +565,8 @@ Para obter mais espaço de armazenamento, visite mi.com/micloud."</string>
     <string name="micloud_main_head_menu_state_close">Desativado</string>
     <string name="micloud_main_head_menu_state_unavailable">Indisponível</string>
     <string name="micloud_main_head_menu_finddevice_unavailable">O Encontrar dispositivo não está disponível no Segundo Espaço, você pode acessá-lo a partir do Primeiro Espaço.</string>
+    <string name="micloud_footer_normal_url">i.mi.com</string>
+    <string name="micloud_footer_international_url">mi.com/micloud</string>
     <string name="ks_fingerprint_payment">Pagamentos com impressão digital</string>
     <string name="ks_name_fido">FIDO</string>
     <string name="ks_name_alipay">IFAA</string>

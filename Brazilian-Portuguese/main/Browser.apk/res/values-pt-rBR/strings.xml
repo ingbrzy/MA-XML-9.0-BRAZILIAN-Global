@@ -111,9 +111,9 @@
     <string name="bookmark_group_lable">Grupo</string>
     <string name="bookmark_needs_title">O favorito deve ter um nome</string>
     <string name="bookmark_needs_url">O favorito deve ter uma URL</string>
-    <string name="bookmark_not_saved">Não foi possível salvar nos favoritos</string>
+    <string name="bookmark_not_saved">"Couldn't add to bookmarks"</string>
     <string name="bookmark_rename_group">Renomear grupo</string>
-    <string name="bookmark_saved">Salvo nos favoritos</string>
+    <string name="bookmark_saved">Added to bookmarks</string>
     <string name="bookmark_title">Nome do favorito</string>
     <string name="bookmark_title_lable">Título</string>
     <string name="bookmark_url">URL http://</string>
@@ -169,6 +169,7 @@
     <string name="color_picker_dialog_title">Selecionar cor</string>
     <string name="color_picker_hue">Matiz</string>
     <string name="color_picker_saturation">Saturação</string>
+    <string name="color_picker_value">Valor</string>
     <string name="comment_app_menu">Comentário</string>
     <string name="comment_description">Comentário</string>
     <string name="comment_hint">Comentário</string>
@@ -517,8 +518,8 @@ Sair desta página?"</string>
     <string name="nav_screen_container_tab_normal">Guia normal</string>
     <string name="nav_screen_incognito_message">"O seu histórico de navegação e pesquisas não serão salvos no Modo incógnito.
 Lembre-se de que os arquivos que você baixar e favoritos que adicionar serão salvos ainda assim."</string>
-    <string name="nav_screen_incognito_title">Modo incógnito</string>
-    <string name="navigation_delete_all">deslize para a esquerda e direita para fechar todas as guias</string>
+    <string name="nav_screen_incognito_title">Incognito mode</string>
+    <string name="navigation_delete_all">Swipe left or right to close all tabs</string>
     <string name="navigationbar_rightbutton_actiontext_cancle">Cancelar</string>
     <string name="navigationbar_rightbutton_actiontext_go">Ir</string>
     <string name="navigationbar_rightbutton_actiontext_search">Pesquisar</string>

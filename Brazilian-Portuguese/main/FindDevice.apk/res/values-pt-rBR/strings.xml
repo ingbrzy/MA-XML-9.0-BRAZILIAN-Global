@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
     <string name="find_device_notice_p1">Vá para</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"para localizar, bloquear ou redefinir seu telefone.
 Se você trocar de cartões SIM, outro SMS será enviado automaticamente para reativar este recurso."</string>
     <string name="i_know">OK</string>

@@ -115,6 +115,6 @@ Insira o número associado com o seu novo cartão SIM para reativar o serviço %
     <string name="phone_get_text">Permitir que %1$s obtenha seu número de telefone (%2$s)?</string>
     <string name="phone_get_processing">Obtendo…</string>
     <string name="agree">Permitir</string>
-    <string name="privacy_revoke_tips">Se revogar esta permissão, a sincronização de SMS não funcionará corretamente</string>
-    <string name="privacy_revoke_failed_msg">Permissão revogada, não foi possível obter o número do telefone, falha na ativação</string>
+    <string name="privacy_revoke_tips">After you revoke authorization, Messaging will stop collecting your data and delete all your data from its servers. Sync with Mi Cloud, Mi Message, and other Messaging features will no longer be available. Revoke authorization anyway?</string>
+    <string name="privacy_revoke_failed_msg">Activation requires granting authorization so that Messaging could get your phone number.</string>
 </resources>

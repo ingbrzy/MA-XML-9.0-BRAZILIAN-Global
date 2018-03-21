@@ -25,8 +25,8 @@
         <item quantity="one">Ocultando notificações de %1$s &amp; %2$d app.</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Limpo</item>
-        <item quantity="one">Ensolarado</item>
+        <item quantity="other">Clear</item>
+        <item quantity="one">Clear</item>
     </plurals>
     <plurals name="accessibility_desc_weather_temperature">
         <item quantity="other">Clima %d graus</item>

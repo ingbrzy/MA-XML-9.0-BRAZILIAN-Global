@@ -151,4 +151,5 @@
     <string name="head_set_tip_dialog_msg">Desconecte seu fone de ouvido para gravar sons com predefinições específicad (ex.: Músicas, Voz).</string>
     <string name="head_set_tip_dialog_ok">OK</string>
     <string name="rename_fail_tip">Não foi possível renomear. Já existe um item com o mesmo nome.</string>
+    <string name="dialog_privacy_revoke_tips">"After you revoke authorization, the app will stop collecting data, and all the related data will be deleted from the servers. This might make the app virtually unusable. Revoke authorization anyway?To ensure your account's security, sign in to i.mi.com before revoking authorization for Mi Cloud services."</string>
 </resources>

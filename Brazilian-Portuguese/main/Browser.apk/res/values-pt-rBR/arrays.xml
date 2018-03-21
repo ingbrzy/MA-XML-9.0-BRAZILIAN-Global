@@ -74,7 +74,7 @@
         <item>Siga as Olimpíadas com a Mi</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Ensolarado</item>
+        <item>Clear</item>
         <item>Nublado</item>
         <item>Nublado</item>
         <item>Nebuloso</item>

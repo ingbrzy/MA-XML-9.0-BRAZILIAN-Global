@@ -6,6 +6,7 @@
     <string name="sina_token_expired_warning">Conta Weibo expirada, adicione a conta novamente.</string>
     <string name="sina_token_invalid_warning">Conta Weibo inválida, adicione a conta novamente.</string>
     <string name="sina_share_fail_content_repeat">Você já compartilhou isso.</string>
+    <string name="search_title_notes">@string/app_name</string>
     <string name="search_keyword_notes">Anotações;Notas</string>
     <string name="search_path_notes">Apps do sistema/Anotações</string>
     <string name="dlg_move_message">Movendo…</string>
@@ -119,6 +120,7 @@
     <string name="error_unsupport_content">Anotação com conteúdo não suportado, toque aqui para atualizar</string>
     <string name="error_contact_not_exist">O contato não existe</string>
     <string name="sync_tips">Toque para sincronizar anotações com a Mi Cloud.</string>
+    <string name="micloud_state_total_count">%1$s</string>
     <string name="pref_title_font_size">Tamanho do texto</string>
     <string name="call_folder_name">Anotações de chamada</string>
     <string name="trash_folder_name">Lixo</string>

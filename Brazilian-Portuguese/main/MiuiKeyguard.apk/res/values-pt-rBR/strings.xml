@@ -5,12 +5,13 @@
     <string name="unlockscreen_recharge_completed">Bateria carregada</string>
     <string name="unlockscreen_low_battery">Conecte o carregador agora</string>
     <string name="lockscreen_charging_msg">Carregando</string>
-    <string name="reset_device_tip">Carregamento lento, reposicione o telefone</string>
-    <string name="reset_device_detail_tip">Carregando sem fios, por favor alinhe o telefone à base para garantir a velocidade de carregamento.</string>
-    <string name="wireless_charge_stop">O carregamento sem fio parou</string>
+    <string name="reset_device_tip">Charging is slow. Readjust your device.</string>
+    <string name="reset_device_detail_tip">Place your device on the wireless charger correctly to ensure high charging speed.</string>
+    <string name="wireless_charge_stop">Stopped wireless charging</string>
     <string name="change_to_ac_charging">Alternado para carregamento sem fio</string>
-    <string name="wireless_charge_dialog_title">Fora da posição, por favor reposicione</string>
+    <string name="wireless_charge_dialog_title">Readjust your device on the wireless charger</string>
     <string name="wireless_charge_dialog_cancel">Cancelar</string>
+    <string name="wireless_current_charge">Current Charge</string>
     <string name="emergency_call_string">Emergência</string>
     <string name="forget_password_string">Esqueci a senha</string>
     <string name="input_puk_code">Inserir PUK</string>
@@ -64,6 +65,7 @@ Tente novamente em %d segundos."</string>
     <string name="input_password_after_boot_msg">Para desbloquear o dispositivo, insira sua senha</string>
     <string name="input_password_after_boot_msg_must_enter_owner_space">Você precisa entrar no Primeiro Espaço depois do dispositivo ser reiniciado</string>
     <string name="input_password_after_boot_msg_can_not_switch_when_calling">Não é possível trocar de Espaços durante uma chamada</string>
+    <string name="input_password_after_boot_msg_can_not_switch_when_greenkid_active">"Can't switch between spaces when green guard active"</string>
     <string name="input_password_handle_sdcard_fs">Não é possível entrar no Segundo Espaço na Tela de bloqueio. Entre a partir do Primeiro Espaço.</string>
     <string name="accessibility_enter_lock_wallpaper">Toque para abrir o Carrossel de Planos de fundo</string>
     <string name="wallpaper_global_des_drop_down_notify_text">Solte para ver detalhes</string>
@@ -147,5 +149,6 @@ Tente novamente em %d segundos."</string>
     <string name="do_disclosure_with_name">Este dispositivo é gerenciado por %s</string>
     <string name="face_unlock_reenter_title">Grave seus dados faciais novamente.</string>
     <string name="face_unlock_reenter_content">O algoritmo do desbloqueio facial está sendo atualizado. Toque para gravar os dados faciais novamente.</string>
+    <string name="digital_clock_dot">:</string>
     <string name="keyguard_left_view_lock_wallpaper">Carrossel de Planos de fundo</string>
 </resources>

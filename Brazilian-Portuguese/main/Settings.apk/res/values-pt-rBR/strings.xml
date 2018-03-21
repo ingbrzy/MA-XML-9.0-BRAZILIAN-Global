@@ -343,7 +343,6 @@ Não é possível aumentar o zoom no teclado e na barra de navegação."</string
 "<font size="12">aviso</font></string>
     <string name="date_time_settings">Data &amp; hora</string>
     <string name="day_of_week">Dia da semana</string>
-    <string name="defalut_launcher_title">Launcher padrão</string>
     <string name="default_input_method">Escolher teclado padrão</string>
     <string name="default_usb_mode">Conexão USB</string>
     <string name="delete_fingerprint_confirm_msg">Remover impressão digital?</string>
@@ -648,8 +647,6 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="launch_google_search">Iniciar Assistente do Google</string>
     <string name="launch_recents">Iniciar Recentes</string>
     <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
-    <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
-    <string name="launcher_title">Tela inicial &amp; Recentes</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Executando as informações do telefone…</string>
     <string name="launching_rep">Enviando relatório…</string>
@@ -706,7 +703,6 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="location_mode_high_accuracy_description">Usar GPS, Wi-Fi e redes móveis para determinar a localização</string>
     <string name="location_neighborhood_level">Permitir que apps usem redes móveis e Wi-Fi para estimar a sua localização</string>
     <string name="location_network_based">Wi-Fi &amp; rede móvel</string>
-    <string name="lock_screen_cells_title">Bloquear layout da Tela inicial</string>
     <string name="lock_screen_notifications_summary_hide">Mostrar notificações mas ocultar conteúdos</string>
     <string name="lock_screen_notifications_summary_show">Mostrar todas as notificações e seus conteúdos</string>
     <string name="lock_screen_signature_summary">Esta mensagem será exibida na Tela de bloqueio</string>
@@ -831,7 +827,6 @@ para o Segundo Espaço"</string>
     <string name="miui_lab_slogan">Aprenda. Explore. Descubra.</string>
     <string name="miui_lab_taplus_desc">Pressione e segure itens na tela para iniciar ações</string>
     <string name="miui_master_clear_summary">Apaga todos os dados no telefone</string>
-    <string name="miui_screen_config_title">Configurações da Tela inicial</string>
     <string name="miui_updater">Atualização do sistema</string>
     <string name="mms_breathing_light_color_title">Cor do LED para mensagens</string>
     <string name="mms_breathing_light_freq_title">Frequêcia de pulsação para SMS</string>
@@ -946,6 +941,8 @@ Selecione seu sistema operacional:"</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Adicionar</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">Adicionar impressão digital</string>
     <string name="next_button_label">Avançar</string>
+    <string name="nfc_payment_favor_default">Always use default app</string>
+    <string name="nfc_payment_favor_open">Replace default app when another payment app is open</string>
     <string name="nfc_quick_toggle_summary">Permitir troca de dados quando o telefone tocar em outro dispositivo</string>
     <string name="nfc_se_route_title">Posição do elemento de segurança</string>
     <string name="nfc_se_wallet_title">Carteira padrão</string>
@@ -984,11 +981,6 @@ Selecione seu sistema operacional:"</string>
     <string name="open_demo_mode_warning_message">Quando o Modo de demonstração está ativado, o relógio da barra de status parará, e os ícones de sinal e bateria serão exibidos totalmente cheios. Você pode desativar o Modo de demonstração ou reiniciar o dispositivo para alterar isto.</string>
     <string name="open_miui_optimization_title">Ativar otimização MIUI</string>
     <string name="open_miui_optimization_warning_message">Seu dispositivo será reiniciado para aplicar esta alteração.</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
-    <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o App vault ou receber suas atualizações. Desativar agora?</string>
-    <string name="open_personal_assistant_dialog_title">Desativar o App vault</string>
-    <string name="open_personal_assistant_title">Ativar o App vault</string>
     <string name="open_wifi_connect_summary">Toque para ver detalhes</string>
     <string name="open_wifi_connect_title">Conectado a %1$s</string>
     <string name="optimization_cancel">Cancelar</string>
@@ -1113,7 +1105,6 @@ Selecione seu sistema operacional:"</string>
     <string name="priority_storage_settings_summary">Se nenhum cartão SD for detectado, seus dados serão salvos na memória interna do dispositivo automaticamente</string>
     <string name="priority_storage_summary">Escolha onde salvar seus dados</string>
     <string name="priority_storage_title">Configurações de armazenamento</string>
-    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços Mi Cloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
     <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos de serviços da Mi Cloud, você precisa concordar que a xiaomi colete, processe e use os seus dados pessoais. Consulte nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Ao selecionar \"Aceitar\" você estará automaticamente concordando com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordo do Usuário&lt;/a>.​</Data></string>
@@ -1208,7 +1199,6 @@ Selecione seu sistema operacional:"</string>
     <string name="receiver_clean">Liberar espaço</string>
     <string name="recent_location_requests_summary">Ver apps solicitando acesso à sua localização</string>
     <string name="recent_location_requests_title">Acesso à localização</string>
-    <string name="recents_config_title">Recentes</string>
     <string name="recommend_item_1">Case para telefone</string>
     <string name="recommend_item_4">Fones de ouvido</string>
     <string name="recommend_item_title">Recomendações</string>
@@ -1251,7 +1241,6 @@ Selecione seu sistema operacional:"</string>
     <string name="screen">Tela</string>
     <string name="screen_button">Botões virtuais</string>
     <string name="screen_button_tips">Deslize para baixo para ocultar os botões virtuais</string>
-    <string name="screen_cells_config_title">Layout da Tela inicial</string>
     <string name="screen_color_and_optimize">Cores &amp; contraste</string>
     <string name="screen_color_and_optimize_disabled">Não é possível ajustar a temperatura da cor no Modo de leitura</string>
     <string name="screen_color_temperature">Cores</string>
@@ -1546,7 +1535,6 @@ Você ainda pode usar sua impressão digital para autorizar compras e acessar ap
     <string name="show_fc">Apps fechados forçadamente</string>
     <string name="show_fc_summary">Mostrar apps que foram fechados à força</string>
     <string name="show_magnifier_when_input">Lupa para texto</string>
-    <string name="show_mem_info_title">Mostrar o status da memória</string>
     <string name="show_menu">Mostrar o menu</string>
     <string name="show_owner_info_on_lockscreen_label">Mostrar assinatura na Tela de bloqueio</string>
     <string name="show_rounded_corners">Exibir cantos de tela arredondados</string>
@@ -1712,7 +1700,6 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="title_font_current">Fonte do sistema</string>
     <string name="title_font_current2">Fonte do sistema</string>
     <string name="title_hdmi_color_calibration">Predefinição de correção de cor</string>
-    <string name="title_jeejen">Tela Inicial Jeejen</string>
     <string name="title_layout_current">Tamanho do texto</string>
     <string name="title_layout_current2">Tamanho do texto</string>
     <string name="toast_lockscreen_glogin_empty_password">Inserir senha</string>
@@ -1779,7 +1766,6 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="unrestrict_max_aspect_ratio_title">Estes apps são otimizados para tela cheia</string>
     <string name="update_new_version">Atualização disponível</string>
     <string name="update_progress_for_updates">Atualizando (%s)</string>
-    <string name="upload_debug_log_summary">Dados de diagnóstico podem incluir informações do uso de seu hardware, sistema operacional e apps. Os dados serão usados para localizar e analisar problemas no sistema e nunca serão usados para identificá-lo.</string>
     <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
     <string name="usage_log">Estatísticas de uso do app</string>
     <string name="usage_type_data_wifi_recv">Dados recebidos por Wi-Fi</string>
@@ -1815,7 +1801,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="user_dict_settings_empty_text">"Você não tem nenhum dicionário
 Toque no + para adicionar palavras."</string>
     <string name="user_experience_program">Programa de Experiência do Usuário</string>
-    <string name="user_experience_program_summary">Ajude a melhorar o MIUI enviando dados de uso anônimos</string>
     <string name="user_experience_program_title">Programa de Experiência do Usuário</string>
     <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
     <string name="vibrate_category_title">Vibrar</string>
@@ -2058,8 +2043,4 @@ Toque em"<b> Voltar</b> para conectar-se a uma rede Wi-Fi diferente.</string>
     <string name="zen_mode_option_miui_vibrate">Não perturbe</string>
     <string name="zen_mode_phone_calls">Chamadas</string>
     <string name="zen_mode_settings_title">Não perturbe</string>
-    <string name="lock_screen_secure_after_timeout_immediately_never">Nunca requerer senha</string>
-    <string name="lock_screen_secure_after_timeout_immediately_summary">Requerer senha imediatamente</string>
-    <string name="lock_screen_secure_after_timeout_summary">Requerer senha: %1$s</string>
-    <string name="lock_screen_secure_after_timeout_title">Requerer senha</string>
 </resources>
