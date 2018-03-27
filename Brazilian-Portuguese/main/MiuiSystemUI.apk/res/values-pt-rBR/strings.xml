@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhuma</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -88,7 +86,6 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi três barras.</string>
     <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi cheio.</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
@@ -667,7 +664,6 @@ d 'de' MMMM"</string>
     <string name="ext_media_mountable_notification_title">Armazenamento USB conectado</string>
     <string name="ext_media_mountable_notification_message">Toque para abrir no Gerenciador de Arquivos</string>
     <string name="ext_media_safe_remove">Remoção segura</string>
-    <string name="network_speed_suffix">%1$s%2$s</string>
     <string name="kilobyte_per_second">KB/s</string>
     <string name="megabyte_per_second">MB/s</string>
     <string name="status_bar_network_flow_today">Hoje: %1$s</string>
@@ -749,7 +745,6 @@ d 'de' MMMM"</string>
     <string name="notification_header_title">Notificações</string>
     <string name="weather_publish_time">Atualizado às %1$s</string>
     <string name="no_weather_description">Obtenha informações de clima ></string>
-    <string name="weather_description_no_aqi">%1$s</string>
     <string name="accessibility_desc_notification_shade">Área de notificações</string>
     <string name="accessibility_desc_quick_settings">Configurações rápidas</string>
     <string name="accessibility_desc_details_page">Página de detalhes %1$s</string>
