@@ -43,6 +43,11 @@
         <item>AVRCP 1.5</item>
         <item>AVRCP 1.6</item>
     </string-array>
+    <string-array name="bluetooth_avrcp_version_values">
+        <item>avrcp14</item>
+        <item>avrcp15</item>
+        <item>avrcp16</item>
+    </string-array>
     <string-array name="bluetooth_a2dp_codec_titles">
         <item>Usar seleção do sistema (padrão)</item>
         <item>SBC</item>
@@ -264,6 +269,24 @@
         <item>50%</item>
         <item>100%</item>
     </string-array>
+    <string-array name="aqi_title_prefix">
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+        <item>IQA %1$s</item>
+    </string-array>
+    <string-array name="aqi_title_append">
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+        <item>%1$s</item>
+    </string-array>
     <string-array name="aqi_title">
         <item>%1$s</item>
         <item>%1$s</item>
@@ -274,7 +297,7 @@
         <item>%1$s</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Clear</item>
+        <item>Limpo</item>
         <item>Nublado</item>
         <item>Muito nublado</item>
         <item>Névoa</item>

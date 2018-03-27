@@ -309,7 +309,7 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="one">%d dia restante antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
     </plurals>
     <plurals name="gb_signed_days_sum">
-        <item quantity="other">Checked in %d days in a row</item>
-        <item quantity="one">Checked in %d time</item>
+        <item quantity="other">Check-in feito %d dias seguidos</item>
+        <item quantity="one">Check-in feito %d vez</item>
     </plurals>
 </resources>

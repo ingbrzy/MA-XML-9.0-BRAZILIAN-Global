@@ -358,6 +358,13 @@ Se você não atualizar, os dual apps também podem não funcionar corretamente.
     <string name="sdcradfs_dialog_in_sec_message">"Para atualizar, você precisa excluir o seu Segundo Espaço e criá-lo novamente. Mova os dados do Segundo Espaço para o Primeiro Espaço e reinicie o dispositivo para concluir a atualização.
 Se você não atualizar, os dual apps podem não funcionar corretamente também."</string>
     <string name="space_created_success">Segundo Espaço criado com sucesso</string>
+    <string name="encrypt_space_delete_dialog_title">Attention</string>
+    <string name="encrypt_space_delete_dialog_message">"You're about to update Android. After the update, Second space data will become incompatible. To avoid this, move all data to First space, delete Second space, and create it again."</string>
+    <string name="encrypt_space_delete_dialog_click_message">"*If you don't need to move data, %s"</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">delete and create Second space now.</string>
+    <string name="encrypt_space_delete_dialog_positive_text">Move data</string>
+    <string name="encrypt_space_delete_notification_title">Second space</string>
+    <string name="encrypt_space_delete_notification_message">Delete your Second space and create a new one to update your device successfully.</string>
     <string name="space_create_guide_title_1">Proteja sua privacidade</string>
     <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>
     <string name="space_create_guide_title_2">Crie a qualquer momento</string>
@@ -368,15 +375,14 @@ Se você não atualizar, os dual apps podem não funcionar corretamente também.
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendi</string>
     <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo Espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
-    <string name="green_guard">蜂巢</string>
-    <string name="bind_device">绑定设备</string>
-    <string name="green_guard_des1">一键绑定设备，操作简单快捷</string>
-    <string name="green_guard_title2">查看定位</string>
-    <string name="green_guard_des2">实时定位查询，守护外出安全</string>
-    <string name="green_guard_title3">管理应用</string>
-    <string name="green_guard_des3">管理设备应用，控制使用时间</string>
-    <string name="experience_more_features">绑定设备后可体验更多功能</string>
-    <string name="add_spare_text">守护中</string>
-    <string name="control_and_guarding">管控守护中</string>
-    <string name="can_not_switch_when_green_kid_active">家长守护中禁止切换分身</string>
+    <string name="green_guard">Controle parental</string>
+    <string name="bind_device">Adicionar dispositivos</string>
+    <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>
+    <string name="green_guard_title2">Ver info. de localização</string>
+    <string name="green_guard_des2">Saiba onde todos os dispositivos gerenciados estão</string>
+    <string name="green_guard_title3">Gerenciar apps</string>
+    <string name="green_guard_des3">Controle apps instalados e restrinja a utilização</string>
+    <string name="experience_more_features">Adicione um dispositivo para ver todos os recursos</string>
+    <string name="can_not_switch_when_green_kid_active">Alternar para o Segundo Espaço não é permitido devido ao controle parental</string>
+    <string name="need_network_when_bind">Conecte-se à rede antes de adicionar dispositivos</string>
 </resources>

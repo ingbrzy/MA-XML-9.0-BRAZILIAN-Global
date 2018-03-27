@@ -202,7 +202,7 @@ Para ativar sua conta, siga o
     <string name="passport_get_innetdate_msg">&lt;font color=Red>Parece que&lt;/font> o número %s foi reciclado por sua operadora, e existe uma Conta Mi associada com ele. Esta conta é sua?</string>
     <string name="passport_get_innetdate_agree">Verificar</string>
     <string name="passport_get_innetdate_disagree">Não</string>
-    <string name="passport_extra_gdpr_license">Creating your Mi Account means that you agree that Xiaomi will collect, process, and use your personal data, including verification data (e.g., verification codes), Second space data (e.g., information about the ways you use Second space, IDs used in First and Second spaces), and other data specified in our Privacy Policy. Refer to our Privacy Policy to learn how we process and use personal data.</string>
+    <string name="passport_extra_gdpr_license">Criar sua Conta Mi significa que você aceita que a Xiaomi colete, processe e use seus dados pessoais, incluindo dados de verificação (ex.: códigos de verificação), dados do Segundo Espaço (ex.: informações sobre o uso do segundo Espaço, IDs usadas no Primeiro e Segundo espaços), e outros dados especificados na nossa Política de Privacidade. Consulte nossa Política de Privacidade para entender como processamos e usamos os dados pessoais.</string>
     <string name="search_app_name">Conta Mi</string>
     <string name="search_mi_account">Conta Mi</string>
     <string name="search_mi_account_key_words">Mi Cloud,Configurações da conta,Mi Pay,Sair</string>
@@ -416,10 +416,10 @@ Para ativar sua conta, siga o
     <string name="find_device_prompt_message">O dispositivo está bloqueado. Mensagem: %1$s.</string>
     <string name="find_device_activate_account">Ativar conta</string>
     <string name="login_check_find_device">Obtendo informações de segurança do dispositivo…</string>
-    <string name="unlock_help_notice">"Help:
-1. If you forgot your password, go to id.mi.com to reset it.
-2. If you can't unlock the device, go to i.mi.com to turn off Find device.
-3. Your unlock number: %s"</string>
+    <string name="unlock_help_notice">"Ajuda:
+1. Se você esqueceu a sua senha, acesse id.mi.com para redefiní-la.
+2. Se você não puder redefinir a sua senha ou se alguém bloqueou o seu dispositivo, acesse i.mi.com para desbloqueá-lo.
+3. Seu número de desbloqueio: %s"</string>
     <string name="login_find_device_bind">Este dispositivo está associado à ID de uma Conta Mi existente (%s).</string>
     <string name="find_device_locked_account_phone" formatted="false">%s, número de telefone associado: %s</string>
     <string name="find_device_locked_account_email" formatted="false">%s, endereço de email associado: %s</string>
@@ -451,7 +451,7 @@ Para ativar sua conta, siga o
     <string name="mipay_identity">Verificação de ID</string>
     <string name="mipay_indentity_done">Verificado</string>
     <string name="mipay_identitiy_no">Não verificado</string>
-    <string name="account_token_expired_title">Falha na autenticação</string>
+    <string name="account_token_expired_title">Não foi possível autenticar</string>
     <string name="account_token_expired_msg">"Código de verificação expirado, comece novamente ou faça o logout
 ID da sua conta: %s"</string>
     <string name="bind_safe_phone_msg">Adicione seu número de telefone para conseguir fazer o login em sua Conta Mi da próxima vez.</string>

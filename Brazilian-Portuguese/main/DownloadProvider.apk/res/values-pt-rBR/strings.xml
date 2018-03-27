@@ -3,6 +3,7 @@
     <string name="paused_waiting_for_network">Aguardando rede</string>
     <string name="notif_title_file_size">%1$d no total</string>
     <string name="notif_title_single_downloading">Fazendo o download %1$s</string>
+    <string name="download_filesize_unknown">Unknown</string>
     <string name="app_label">Downloads</string>
     <string name="permlab_downloadManager">Acessar Downloads.</string>
     <string name="permdesc_downloadManager">Permite que o app acesse o Gerenciador de Downloads e use-o para baixar arquivos. Apps maliciosos podem usar esta permissão para interromper downloads e acessar informações pessoais.</string>

@@ -622,6 +622,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="key_gesture_function_preview">Visualização de botões e gestos</string>
     <string name="key_gesture_function_shortcut">Atalhos de função</string>
     <string name="key_none">N/A</string>
+    <string name="key_operation_diagram">Diagrama de operação</string>
     <string name="key_position_cat">Posição dos botões</string>
     <string name="key_settings">Botões e atalhos por gestos</string>
     <string name="key_settings_title">Botões e atalhos por gestos</string>
@@ -647,6 +648,7 @@ Você poderá alterar essa opção mais tarde em \"Configurar\" > \"Apps e notif
     <string name="launch_google_search">Iniciar Assistente do Google</string>
     <string name="launch_recents">Iniciar Recentes</string>
     <string name="launch_voice_assistant">Iniciar Assistente de voz</string>
+    <string name="launcher_title">Tela inicial &amp; Recentes</string>
     <string name="launching_cit">Iniciando CIT</string>
     <string name="launching_pho">Executando as informações do telefone…</string>
     <string name="launching_rep">Enviando relatório…</string>
@@ -806,6 +808,8 @@ para o Segundo Espaço"</string>
     <string name="max_fingerprint_number_reached">Não é possível adicionar mais de 5 impressões digitais. Para adicionar uma impressão digital nova, remova uma impressão existente primeiro.</string>
     <string name="media_button">Botão de mídia</string>
     <string name="media_feedback_enable_title">Vibrar com a batida</string>
+    <string name="memory_system_rom">Armaz. do sistema</string>
+    <string name="memory_system_space">Armaz. do sistema</string>
     <string name="memory_title">"Disponível:  %1$s\u0009\u0009Total: %2$s"</string>
     <string name="menu_check">Experiência</string>
     <string name="menu_restore">Redefinir</string>
@@ -941,8 +945,8 @@ Selecione seu sistema operacional:"</string>
     <string name="new_password_to_new_fingerprint_dialog_positive_msg">Adicionar</string>
     <string name="new_password_to_new_fingerprint_dialog_tittle">Adicionar impressão digital</string>
     <string name="next_button_label">Avançar</string>
-    <string name="nfc_payment_favor_default">Always use default app</string>
-    <string name="nfc_payment_favor_open">Replace default app when another payment app is open</string>
+    <string name="nfc_payment_favor_default">Sempre usar o app padrão</string>
+    <string name="nfc_payment_favor_open">Substituir app padrão quando outro app de pagamento estiver aberto</string>
     <string name="nfc_quick_toggle_summary">Permitir troca de dados quando o telefone tocar em outro dispositivo</string>
     <string name="nfc_se_route_title">Posição do elemento de segurança</string>
     <string name="nfc_se_wallet_title">Carteira padrão</string>
@@ -1105,6 +1109,7 @@ Selecione seu sistema operacional:"</string>
     <string name="priority_storage_settings_summary">Se nenhum cartão SD for detectado, seus dados serão salvos na memória interna do dispositivo automaticamente</string>
     <string name="priority_storage_summary">Escolha onde salvar seus dados</string>
     <string name="priority_storage_title">Configurações de armazenamento</string>
+    <string name="privacy_authorize_cloud_msg">Para garantir a segurança da sua conta, faça o login em i.mi.com se você desejar revogar a autorização para os serviços Mi Cloud (incluindo sincronização e backups).</string>
     <string name="privacy_authorize_dialog_agree">Aceitar</string>
     <string name="privacy_authorize_dialog_exit">Sair</string>
     <string name="privacy_authorize_dialog_message"><Data>Para usar os recursos básicos de serviços da Mi Cloud, você precisa concordar que a xiaomi colete, processe e use os seus dados pessoais. Consulte nossa Política de Privacidade para entender como coletamos e processamos os dados pessoais. Ao selecionar \"Aceitar\" você estará automaticamente concordando com a nossa &lt;a href=\"http://www.miui.com/res/doc/privacy.html?region=%1$s&amp;lang=%2$s\">Política de Privacidade&lt;/a> e o &lt;a href=\"http://www.miui.com/res/doc/eula.html?region=%3$s&amp;lang=%4$s\">Acordo do Usuário&lt;/a>.​</Data></string>
@@ -1179,6 +1184,7 @@ Selecione seu sistema operacional:"</string>
     <string name="private_sms_need_to_unlock">Senha requerida:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
+    <string name="provision_activation">Ativado</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
     <string name="provision_page_layout_confirm_message">Seu dispositivo precisa ser reiniciado para aplicar estas alterações. Isto levará cerca de 1 minuto.</string>
@@ -1766,6 +1772,7 @@ A mudança leva cerca de ^2 e irá liberar ^3 no armazenamento interno. Alguns a
     <string name="unrestrict_max_aspect_ratio_title">Estes apps são otimizados para tela cheia</string>
     <string name="update_new_version">Atualização disponível</string>
     <string name="update_progress_for_updates">Atualizando (%s)</string>
+    <string name="upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
     <string name="upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
     <string name="usage_log">Estatísticas de uso do app</string>
     <string name="usage_type_data_wifi_recv">Dados recebidos por Wi-Fi</string>
@@ -1801,6 +1808,7 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="user_dict_settings_empty_text">"Você não tem nenhum dicionário
 Toque no + para adicionar palavras."</string>
     <string name="user_experience_program">Programa de Experiência do Usuário</string>
+    <string name="user_experience_program_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco</string>
     <string name="user_experience_program_title">Programa de Experiência do Usuário</string>
     <string name="user_settings_forbidden">Não é possível alterar as configurações de administrador no espaço atual. Volte ao Primeiro Espaço.</string>
     <string name="vibrate_category_title">Vibrar</string>
