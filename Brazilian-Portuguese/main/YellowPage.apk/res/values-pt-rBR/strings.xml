@@ -198,7 +198,6 @@
     <string name="quick_yellow_page_tab_phones">Telefone</string>
     <string name="recharge_actual_price">Preço:</string>
     <string name="recharge_charge_range">Preço: RMB %1$s-%2$s</string>
-    <string name="recharge_charge_value">Preço: RMB %s</string>
     <string name="recharge_follow_name">Recarregar</string>
     <string name="recharge_history">Histórico de recarga</string>
     <string name="recharge_history_empty">Vazio</string>

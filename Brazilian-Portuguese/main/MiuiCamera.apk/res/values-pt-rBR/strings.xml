@@ -411,7 +411,6 @@ e otimiza sua foto baseada neste cenário"</string>
     <string name="pref_camera_zoom_mode_entry_tele">TELEPHOTO</string>
     <string name="pref_camera_zoom_mode_entry_standard">REGULAR</string>
     <string name="pref_camera_zoom_mode_entry_high_pixel">POUCA ILUMINAÇÃO</string>
-    <string name="pref_camera_zoom_value_title">Zoom</string>
     <string name="pref_camera_portrait_mode_title">Modo retrato</string>
     <string name="pref_camera_portrait_mode_entry_off">Modo retrato desativado</string>
     <string name="pref_camera_portrait_mode_entry_on">Modo retrato ativado</string>
