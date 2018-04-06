@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="action_add_to_workspace">Adicionar ao espaço de trabalho</string>
     <string name="activity_not_found">O app não está instalado no seu dispositivo</string>
     <string name="add_screen">Adicionar tela</string>
@@ -81,7 +82,6 @@
     <string name="current_preview">Pré-visualizar</string>
     <string name="current_wallpaper">Atual</string>
     <string name="custom_wallpaper_picker">Procurar</string>
-    <string name="defalut_launcher_title">Launcher padrão</string>
     <string name="default_folder_title_claro">Claro</string>
     <string name="default_folder_title_game">Jogos</string>
     <string name="default_folder_title_microsoft">Microsoft</string>
@@ -180,16 +180,13 @@
     <string name="invalid_contact_shortcut">Contato inválido</string>
     <string name="is_setting_wallpaper_message">Definindo plano de fundo…</string>
     <string name="is_system_wallpaper_message">Não é possível excluir um recurso de sistema</string>
-    <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
     <string name="launcher_not_exist">Ocorreu um erro, volte para a Tela inicial e tente novamente.</string>
-    <string name="launcher_title">Tela inicial &amp; Recentes</string>
     <string name="like">Favorito</string>
     <string name="liked">Adicionado aos Favoritos</string>
     <string name="loading_desktop">Aguarde…</string>
     <string name="loading_wallpaper">Aguarde…</string>
     <string name="local_wallpaper">Transferidos</string>
     <string name="lock_screen">Tela de bloqueio</string>
-    <string name="lock_screen_cells_title">Bloquear layout da Tela inicial</string>
     <string name="lock_screen_failed_message">Não é possível definir o plano de fundo da Tela de bloqueio</string>
     <string name="lock_screen_success_message">Aplicado à Tela de bloqueio</string>
     <string name="lock_screen_wallpaper">Tela de bloqueio</string>
@@ -216,7 +213,6 @@
     <string name="menu_wallpaper">Plano de fundo</string>
     <string name="menu_workspace_preview">Pré-visualização de Telas iniciais</string>
     <string name="mi_wallpaper">Loja de Temas MIUI</string>
-    <string name="miui_screen_config_title">Configurações da Tela inicial</string>
     <string name="mtzgadget_missing_text">O widget não está disponível</string>
     <string name="multi_selecting_tips">Para pegar um app, segure seu ícone e solte-o aqui</string>
     <string name="no_detail_page">Nenhum detalhe</string>
@@ -225,11 +221,6 @@
     <string name="notification_installed">Instalado com sucesso</string>
     <string name="notification_open_button">Abrir</string>
     <string name="online_wallpaper">Online</string>
-    <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
-    <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
-    <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o App vault ou receber suas atualizações. Desativar agora?</string>
-    <string name="open_personal_assistant_dialog_title">Desativar o App vault</string>
-    <string name="open_personal_assistant_title">Ativar o App vault</string>
     <string name="out_of_space">Não há mais espaço nesta Tela inicial</string>
     <string name="permdesc_install_shortcut">Permite que um app adicione os atalhos sem a intervenção do usuário.</string>
     <string name="permdesc_install_widget">Permite que um app adicione widgets sem a intervenção do usuário.</string>
@@ -259,8 +250,6 @@
     <string name="pref_wallpaper_scroll_type_title">Alinhamento do plano de fundo</string>
     <string name="preferences_general_title">Configurações adicionais</string>
     <string name="preferences_title">Configurações do Launcher</string>
-    <string name="preferred_app_settings_not_selected">Not selected</string>
-    <string name="recents_config_title">Recentes</string>
     <string name="recommend_apk_size_and_desc">%1$dMB | %2$s</string>
     <string name="recommend_apps_default_title">Vazio</string>
     <string name="recommend_apps_no_data">Não há dados</string>
@@ -270,7 +259,6 @@
     <string name="recommend_apps_tips">Este recurso precisa de uma conexão com a internet para funcionar normalmente. Para desativar este recurso, toque no nome da pasta.</string>
     <string name="recommend_loading">Carregando</string>
     <string name="reset_scene_prompt">A tela será restaurada para o layout padrão.</string>
-    <string name="screen_cells_config_title">Layout da Tela inicial</string>
     <string name="screen_locked_toast">O layout da Tela inicial está bloqueado</string>
     <string name="screen_number">%d tela</string>
     <string name="select_all">Selecionar tudo</string>
@@ -281,7 +269,6 @@
     <string name="settings_shortcut">Configurações</string>
     <string name="share">Compartilhar</string>
     <string name="show_all">Mostrar todos</string>
-    <string name="show_mem_info_title">Mostrar o status da memória</string>
     <string name="sort_by_abc">Ordenar por nome</string>
     <string name="sort_by_frequency">Ordenar por uso</string>
     <string name="sort_by_not_defined">Ordenar automaticamente</string>
@@ -292,7 +279,6 @@
     <string name="status_installing">Instalando</string>
     <string name="status_paused">Em pausa</string>
     <string name="status_pending">Aguardando</string>
-    <string name="title_jeejen">Tela Inicial Jeejen</string>
     <string name="title_select_live_folder">Selecionar pasta</string>
     <string name="title_select_shortcut">Selecionar atalho</string>
     <string name="toast_screen_icons_misplaced">Restaurado de outra fonte, alguns itens podem estar fora de lugar</string>
@@ -329,4 +315,18 @@
     <string name="widget_gadget_player">Música</string>
     <string name="widget_global_search">Pesquisar</string>
     <string name="widget_quick_function">Funções rápidas</string>
+    <string name="defalut_launcher_title">Launcher padrão</string>
+    <string name="launcher_auto_fill_empty_title">Preencher espaços vazios</string>
+    <string name="launcher_title">Tela inicial &amp; Recentes</string>
+    <string name="lock_screen_cells_title">Bloquear layout da Tela inicial</string>
+    <string name="miui_screen_config_title">Configurações da Tela inicial</string>
+    <string name="open_personal_assistant_dialog_btn_cancel">Cancelar</string>
+    <string name="open_personal_assistant_dialog_btn_confirm">Desativar</string>
+    <string name="open_personal_assistant_dialog_desc">Você não será capaz de usar o App vault ou receber suas atualizações. Desativar agora?</string>
+    <string name="open_personal_assistant_dialog_title">Desativar o App vault</string>
+    <string name="open_personal_assistant_title">Ativar o App vault</string>
+    <string name="recents_config_title">Recentes</string>
+    <string name="screen_cells_config_title">Layout da Tela inicial</string>
+    <string name="show_mem_info_title">Mostrar o status da memória</string>
+    <string name="title_jeejen">Tela Inicial Jeejen</string>
 </resources>

@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <plurals name="phone_in_ecm_notification_time">
+        <item quantity="other">Nenhuma conexão de dados durante %s minutos</item>
+        <item quantity="one">Nenhuma conexão de dados durante %s minuto</item>
+    </plurals>
     <plurals name="alert_dialog_exit_ecm">
         <item quantity="other">O telefone estará no Modo de Retorno de Chamada de Emergência por %s minutos. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
         <item quantity="one">O telefone estará no Modo de Retorno de Chamada de Emergência por %s minuto. Nesse modo, nenhum app que usa uma conexão de dados pode ser usado. Você deseja sair agora?</item>
@@ -29,9 +33,5 @@
 %d tentativas restantes."</item>
         <item quantity="one">"
 %d tentativa restante."</item>
-    </plurals>
-    <plurals name="phone_in_ecm_notification_time">
-        <item quantity="other">Nenhuma conexão de dados durante %s minutos</item>
-        <item quantity="one">Nenhuma conexão de dados durante %s minuto</item>
     </plurals>
 </resources>

@@ -73,7 +73,7 @@
         <item quantity="one">%d minuto restante</item>
     </plurals>
     <plurals name="view_realtime_clear">
-        <item quantity="other">Clear</item>
-        <item quantity="one">Clear</item>
+        <item quantity="other">Limpo</item>
+        <item quantity="one">Ensolarado</item>
     </plurals>
 </resources>

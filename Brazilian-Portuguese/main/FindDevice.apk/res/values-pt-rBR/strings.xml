@@ -22,6 +22,7 @@
     <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
     <string name="find_device_notice_p1">Vá para</string>
+    <string name="find_device_notice_p2">i.mi.com</string>
     <string name="find_device_notice_p3">"para localizar, bloquear ou redefinir seu telefone.
 Se você trocar de cartões SIM, outro SMS será enviado automaticamente para reativar este recurso."</string>
     <string name="i_know">OK</string>
@@ -78,8 +79,6 @@ Faça o login em i.mi.com e tente desbloquear seu dispositivo por lá"</string>
     <string name="default_lock_msg_words_with_phone">Oi! Eu perdi este telefone. Por favor, você poderia entrar em contato? Obrigado!</string>
     <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, você precisa inserir a senha desta conta para ativar o dispositivo.</string>
     <string name="lock_msg_phone">Info. de contato: %s</string>
-    <string name="emergency_call">Emergency Call</string>
-    <string name="return_to_call">Return to Call</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a uma mensalidade atrasada.
 Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="sys_notification_async_verify_title">Reativar o Encontrar dispositivo</string>
