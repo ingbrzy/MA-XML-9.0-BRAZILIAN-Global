@@ -5,14 +5,12 @@
     <string name="wifi_security_short_wpa">WPA</string>
     <string name="wifi_security_short_wpa2">WPA2</string>
     <string name="wifi_security_short_wpa_wpa2">WPA/WPA2</string>
-    <string name="wifi_security_short_psk_generic">@string/wifi_security_short_wpa_wpa2</string>
     <string name="wifi_security_short_eap">802.1x</string>
     <string name="wifi_security_none">Nenhuma</string>
     <string name="wifi_security_wep">WEP</string>
     <string name="wifi_security_wpa">WPA PSK</string>
     <string name="wifi_security_wpa2">WPA2 PSK</string>
     <string name="wifi_security_wpa_wpa2">WPA/WPA2 PSK</string>
-    <string name="wifi_security_psk_generic">@string/wifi_security_wpa_wpa2</string>
     <string name="wifi_security_eap">802.1x EAP</string>
     <string name="wifi_security_passpoint">Passpoint</string>
     <string name="wifi_security_short_WAPI_PSK">WAPI PSK</string>
@@ -83,7 +81,6 @@
     <string name="accessibility_wifi_two_bars">Wi-Fi duas barras.</string>
     <string name="accessibility_wifi_three_bars">Wi-Fi três barras.</string>
     <string name="accessibility_wifi_signal_full">Sinal de Wi-Fi cheio.</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="data_usage_uninstalled_apps">Apps removidos</string>
     <string name="data_usage_uninstalled_apps_users">Apps e usuários removidos</string>
     <string name="tether_settings_title_usb">Tethering USB</string>
@@ -451,7 +448,6 @@
     <string name="abc_activity_chooser_view_see_all">Ver tudo</string>
     <string name="abc_shareactionprovider_share_with_application">Compartilhar com %s</string>
     <string name="abc_shareactionprovider_share_with">Compartilhar com</string>
-    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="abc_capital_on">ATIVAR</string>
     <string name="abc_capital_off">DESATIVAR</string>
     <string name="menu_item_show_more">Mostrar mais</string>
@@ -737,7 +733,6 @@ Esta configuração afeta todos os usuários do telefone."</string>
     <string name="security_enable_widgets_title">Ativar widgets</string>
     <string name="security_enable_widgets_disabled_summary">Desativado pelo administrador</string>
     <string name="owner_info_settings_summary">Nenhuma</string>
-    <string name="owner_info_settings_status">%1$d / %2$d</string>
     <string name="owner_info_settings_edit_text_hint">por exemplo, Android do João.</string>
     <string name="user_info_settings_title">Dados do usuário</string>
     <string name="show_profile_info_on_lockscreen_label">Mostrar informações do perfil na tela de bloqueio</string>
@@ -999,7 +994,6 @@ Para retomar o uso do seu smartphone, é necessário redefinir para as configura
     <string name="wifi_display_options_name">Nome</string>
     <string name="wifi_band_24ghz">2,4 GHz</string>
     <string name="wifi_band_5ghz">5 GHz</string>
-    <string name="link_speed">%1$d Mbps</string>
     <string name="nfc_quick_toggle_title">NFC</string>
     <string name="nfc_quick_toggle_summary">"Permitir troca de dados quando o telefone tocar em  outro dispositivo"</string>
     <string name="android_beam_settings_title">Android Beam</string>
@@ -2266,7 +2260,6 @@ Se o dispositivo tiver vários usuários, o uso desse atalho na tela de bloqueio
     <string name="gadget_title">Controle de energia</string>
     <string name="gadget_toggle_wifi">Atualizar configurações de Wi-Fi</string>
     <string name="gadget_toggle_bluetooth">Atualizando configuração Bluetooth</string>
-    <string name="gadget_state_template">%1$s %2$s</string>
     <string name="gadget_state_on">ativado</string>
     <string name="gadget_state_off">desativado</string>
     <string name="gadget_state_turning_on">ativando</string>
@@ -2691,7 +2684,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="nfc_payment_no_apps">Pague com seu smartphone nas lojas</string>
     <string name="nfc_payment_default">Pagamento padrão</string>
     <string name="nfc_payment_default_not_set">Não definido</string>
-    <string name="nfc_payment_app_and_desc">%1$s - %2$s</string>
     <string name="nfc_payment_use_default">Usar padrão</string>
     <string name="nfc_payment_favor_default">Sempre</string>
     <string name="nfc_payment_favor_open">Exceto quando outro app de pagamento estiver aberto</string>
@@ -2752,7 +2744,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="regulatory_info_text" />
     <string name="sim_setup_wizard_title">Cartões SIM</string>
     <string name="sim_settings_title">Cartões SIM</string>
-    <string name="sim_settings_summary">%1$s - %2$s</string>
     <string name="sim_cards_changed_message">Os cartões SIM foram alterados</string>
     <string name="sim_cards_changed_message_summary">Toque para configurar atividades</string>
     <string name="sim_cellular_data_unavailable">Dados de rede celular indisponíveis</string>
@@ -2873,7 +2864,6 @@ Qualquer usuário pode atualizar apps para os demais usuários."</string>
     <string name="zen_mode_option_important_interruptions">Somente prioridade</string>
     <string name="zen_mode_option_alarms">Somente alarmes</string>
     <string name="zen_mode_option_no_interruptions">Silêncio total</string>
-    <string name="zen_mode_summary_combination">%1$s: %2$s</string>
     <string name="zen_mode_visual_interruptions_settings_title">Bloquear perturbações visuais</string>
     <string name="configure_notification_settings">Configurar notificações</string>
     <string name="advanced_section_header">Avançadas</string>
@@ -2967,7 +2957,6 @@ Isso também permitira que o app ative ou desative o modo \"Não perturbe\" e al
     <string name="zen_mode_schedule_alarm_title">O alarme pode substituir o horário de término</string>
     <string name="zen_mode_schedule_alarm_summary">Parar no horário de término ou no próximo alarme, o que ocorrer primeiro</string>
     <string name="summary_divider_text">", "</string>
-    <string name="summary_range_symbol_combination">%1$s - %2$s</string>
     <string name="summary_range_verbal_combination">%1$s a %2$s</string>
     <string name="zen_mode_calls">Chamadas</string>
     <string name="zen_mode_messages">Mensagens</string>
@@ -3149,8 +3138,6 @@ Isso ajuda a proteger os dados em dispositivos perdidos ou roubados."</string>
     <string name="memory_avg_use">Média</string>
     <string name="memory_max_desc">Máximo de %1$s</string>
     <string name="memory_avg_desc">Média de %1$s</string>
-    <string name="memory_use_running_format">%1$s / %2$s</string>
-    <string name="process_format">%1$s (%2$d)</string>
     <string name="high_power_apps">Otimização de bateria</string>
     <string name="high_power_filter_on">Não otimizados</string>
     <string name="high_power_on">Não otimizado</string>
@@ -3428,7 +3415,6 @@ Isso ajuda a proteger os dados em dispositivos perdidos ou roubados."</string>
     <string name="dndm_auto_setting_group">Programado</string>
     <string name="dndm_auto_button_title">Repetir horário do Não perturbe</string>
     <string name="dndm_auto_time_setting">Configurar horário</string>
-    <string name="dndm_auto_time_setting_summary">%1$s-%2$s</string>
     <string name="dndm_auto_time_turn_on">De</string>
     <string name="dndm_auto_time_turn_on_title">Ativar Não perturbe automaticamente</string>
     <string name="dndm_auto_time_turn_off">A</string>
@@ -4830,7 +4816,6 @@ para o Segundo Espaço"</string>
     <string name="bootloader_locked_answer_1_warning">Lembre-se: Você não será capaz de usar o \"Encontrar dispositivo\" após o telefone ser desbloqueado.</string>
     <string name="bootloader_locked_question_2">Eu entendo os riscos, mas ainda quero desbloquear meu dispositivo.</string>
     <string name="bootloader_locked_answer_2">Toque no botão abaixo para associar sua Conta Mi com este dispositivo. Então, acesse o website do MIUI para fazer o download da ferramenta de desbloqueio. Aqui está o endereço:</string>
-    <string name="bootloader_unlock_webhome">https://unlock.update.miui.com</string>
     <string name="bootloader_locked_check_status">Adicionar conta e dispositivo</string>
     <string name="bootloader_device_bind_already">Conta Mi adicionada e associada ao dispositivo com sucesso.</string>
     <string name="bootloader_device_bind_no_account">Faça o login em sua Conta Mi primeiro</string>
@@ -4860,7 +4845,6 @@ para o Segundo Espaço"</string>
     <string name="security_encryption_attention_info">Você pode criptografar contas, configurações, apps transferidos e seus dados, mídias e outros arquivos.</string>
     <string name="security_encryption_alert_dialog_title_first">Defina primeiro um bloqueio de tela</string>
     <string name="security_encryption_alert_dialog_info_first">Defina uma senha de desbloqueio de tela para ativar esta função. Você precisará inserir a senha da tela de bloqueio sempre que o dispositivo for reiniciado para usaá-lo.</string>
-    <string name="security_encryption_attention_symbol">•</string>
     <string name="security_encryption_attention_1">Alarmes não poderão ser usados com o dispositivo desligado.</string>
     <string name="security_encryption_attention_2">Você precisará inserir a senha de desbloqueio após qualquer reinicialização para descriptografar o dispositivo. Reinicializações levarão mais tempo que o habitual.</string>
     <string name="security_encryption_attention_3">Você precisará definir uma nova senha de desbloqueio.</string>
@@ -4902,7 +4886,6 @@ para o Segundo Espaço"</string>
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
-    <string name="size_suffix">%1$s%2$s</string>
     <string name="radio_info_asdiv_switch_label">Status ASDiv:</string>
     <string name="app_factory_reset_dlg_title">Desinstalar atualizações?</string>
     <string name="app_factory_reset_dlg_text">Todas as atualizações deste app de sistema serão desinstaladas.</string>

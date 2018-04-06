@@ -23,7 +23,6 @@
     <string name="dialog_alert_title">Atenção</string>
     <string name="VideoView_error_text_invalid_progressive_playback">Este vídeo não é válido para transmissão neste dispositivo.</string>
     <string name="selectTextMode">Selecionar texto</string>
-    <string name="status_bar_notification_info_overflow">>999</string>
     <string name="fingerprint_icon_content_description">Ícone de impressão digital</string>
     <string name="byteShort">B</string>
     <string name="kilobyteShort">Kb</string>
@@ -31,7 +30,6 @@
     <string name="gigabyteShort">GB</string>
     <string name="terabyteShort">TB</string>
     <string name="petabyteShort">PB</string>
-    <string name="fileSizeSuffix">%1$s %2$s</string>
     <string name="durationDays">%1$d dias</string>
     <string name="durationDayHours">%1$d dia %2$d h</string>
     <string name="durationDayHour">%1$d dia %2$d h</string>
@@ -1323,7 +1321,6 @@ O economizador de bateria é desligado automaticamente quando o dispositivo est�
     <string name="zen_mode_alarm">Até %1$s (próximo alarme)</string>
     <string name="zen_mode_forever">Até você desativar</string>
     <string name="zen_mode_forever_dnd">Até que você desative \"Não perturbe\"</string>
-    <string name="zen_mode_rule_name_combination">%1$s / %2$s</string>
     <string name="toolbar_collapse_description">Recolher</string>
     <string name="zen_mode_feature_name">Não perturbe</string>
     <string name="zen_mode_downtime_feature_name">Tempo de inatividade</string>
@@ -1349,7 +1346,6 @@ O economizador de bateria é desligado automaticamente quando o dispositivo est�
     <string name="floating_toolbar_close_overflow_description">Fechar barra flutuante</string>
     <string name="maximize_button_text">Maximizar</string>
     <string name="close_button_text">Fechar</string>
-    <string name="notification_messaging_title_template">%1$s: %2$s</string>
     <string name="importance_from_user">Você definiu a importância dessas notificações.</string>
     <string name="importance_from_person">Isso é importante por causa das pessoas envolvidas.</string>
     <string name="user_creation_account_exists">Permitir que %1$s crie um novo usuário com %2$s?</string>
