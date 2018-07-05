@@ -92,6 +92,14 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
         <item quantity="other">"%d min "</item>
         <item quantity="one">"%d min "</item>
     </plurals>
+    <plurals name="power_center_battery_volume">
+        <item quantity="other">%d mAh</item>
+        <item quantity="one">%d mAh</item>
+    </plurals>
+    <plurals name="power_center_battery_temperature">
+        <item quantity="other">%d ℃</item>
+        <item quantity="one">%d ℃</item>
+    </plurals>
     <plurals name="deep_clean_auto_memory_clean">
         <item quantity="other">Em %1$d minutos</item>
         <item quantity="one">Em %1$d minuto</item>
@@ -307,5 +315,9 @@ Se você reativar os dados móveis, sua operadora poderá cobrar pelo uso excede
     <plurals name="net_booster_expire_notification_tip">
         <item quantity="other">%d dias restantes antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
         <item quantity="one">%d dia restante antes da sessão de Otimização de velocidade de rede encerrar. Renove a sessão para evitar problemas de velocidade de rede.</item>
+    </plurals>
+    <plurals name="gb_signed_days_sum">
+        <item quantity="other">Check-in feito %d dias seguidos</item>
+        <item quantity="one">Check-in feito %d vez</item>
     </plurals>
 </resources>

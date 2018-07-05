@@ -9,10 +9,7 @@
     <string name="power_config_apps">Economia de bateria</string>
     <string name="app_list_title">Escolher apps</string>
     <string name="power_hide_mode_app_list_summary">Economizando energia em segundo plano</string>
-    <string name="enable_hide_mode">Ativar Economia de bateria</string>
-    <string name="disable_hide_mode">Desativar Economia de bateria</string>
     <string name="about_hide_mode">Sobre a Economia de bateria</string>
-    <string name="disable_hide_mode_warning">Desativar a Economia de bateria poderá aumentar o consumo de energia do seu dispositivo.</string>
     <string name="show_system_app">Mostrar apps do sistema</string>
     <string name="hide_system_app">Ocultar apps do sistema</string>
     <string name="scenario_policies_title">Cenários inteligentes</string>
@@ -27,6 +24,9 @@
     <string name="power_usage">Uso de energia</string>
     <string name="power_mode">Configurações de energia</string>
     <string name="performance_category">Desempenho</string>
+    <string name="pref_config_title">Otimização de desempenho</string>
+    <string name="app_preload_policies_title">Pré-carregamento por IA</string>
+    <string name="app_preload_policies_summary">Usar machine learning para prever os apps que você usa frequentemente para carregar os recursos antecipadamente.</string>
     <string name="scenario_policies_warmcontrol">Controle de temperatura</string>
     <string name="warm_configure">Configuração de controle de temperatura</string>
     <string name="important_warning">Atenção</string>
@@ -72,11 +72,18 @@ A Economia de bateria irá tratar apps importantes de forma seletiva."</string>
     <string name="update_profile_sucess">Atualizado do servidor com sucesso</string>
     <string name="update_profile_failture_not_connect_wifi">Não foi possível atualizar. Conecte-se ao Wi-Fi e tente novamente.</string>
     <string name="sucess">Concluído</string>
-    <string name="failure">Falha</string>
+    <string name="failure">Erro</string>
     <string name="cloud_addr_info">Informações da nuvem</string>
     <string name="lasttime_feature_cloud">Recursos atualizados:</string>
     <string name="lasttime_applist_cloud">Apps atualizados:</string>
     <string name="base_info">Informação base</string>
     <string name="search_input_txt_na">"&lt;font color='#ff0000'>%s&lt;/font>"</string>
     <string name="search_result_text">Não foi possível encontrar nenhum app</string>
+    <string name="power_consume_abnormal_night">A bateria está drenando durante a noite</string>
+    <string name="enable_sleep_mode">Ative o Modo noturno para otimizar o uso de bateria à noite</string>
+    <string name="sleepmode_privacy_title">Modo de suspensão</string>
+    <string name="sleepmode_privacy_content">Este recurso usará o sistema do seu telefone e informações do dispositivo. Eles não serão enviados aos nossos servidores.</string>
+    <string name="sleepmode_privacy_link">Saiba mais sobre privacidade e segurança</string>
+    <string name="sleepmode_disclaimer_cancel">Cancelar</string>
+    <string name="sleepmode_disclaimer_agree">Aceitar</string>
 </resources>

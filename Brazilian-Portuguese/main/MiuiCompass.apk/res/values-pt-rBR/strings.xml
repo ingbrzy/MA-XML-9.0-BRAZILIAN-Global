@@ -30,6 +30,7 @@
     <string name="direction_north_west">NO</string>
     <string name="direction_south_east">SE</string>
     <string name="direction_south_west">SO</string>
+    <string name="unit_degree">Graus</string>
     <string name="guide_toast">Para calibrar a bússola, mova seu telefone de acordo com o movimento abaixo.</string>
     <string name="mobiledata_alert_dialog_title">Alerta do uso de dados</string>
     <string name="mobiledata_alert_dialog_message">Conectar-se à internet para calibrar a altitude?</string>
@@ -56,4 +57,8 @@
     <string name="altitude_longitude_Degree_format" formatted="false">"%d°%d'%d\""</string>
     <string name="app_description_title">Sobre a Bússola</string>
     <string name="app_description_content">O app Bússola é usado para navegação e orientação e exibe a sua direção. Certifique-se de que você não precisa destes recursos antes de desinstalar o app.</string>
+    <string name="open_perm_msg">Compass needs access to location info and camera. This is necessary to determine coordinates and provide live previews. Allow?</string>
+    <string name="open_perm_title">Permissions required</string>
+    <string name="cancel">Cancel</string>
+    <string name="allow">Allow</string>
 </resources>

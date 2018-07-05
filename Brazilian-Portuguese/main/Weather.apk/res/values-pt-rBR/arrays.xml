@@ -57,34 +57,20 @@
         <item>Delhi</item>
         <item>Mumbai</item>
         <item>Moscow</item>
-        <item>Hyderabad</item>
         <item>Chennai</item>
         <item>Istanbul</item>
         <item>Rio de Janeiro</item>
-        <item>Singapore</item>
-        <item>Berlin</item>
-        <item>Rome</item>
-        <item>New York</item>
+        <item>Cingapura</item>
+        <item>Berlim</item>
+        <item>Roma</item>
+        <item>Nova Iorque</item>
         <item>Los Angeles</item>
         <item>Chicago</item>
-        <item>Tokyo</item>
+        <item>Tóquio</item>
         <item>Paris</item>
         <item>Bangkok</item>
-        <item>Seoul</item>
+        <item>Seul</item>
         <item>Kuala Lumpur</item>
-    </string-array>
-    <string-array name="indices_car_wash">
-        <item>Aceitável</item>
-        <item>Impróprio</item>
-    </string-array>
-    <string-array name="indices_sport">
-        <item>Aceitável</item>
-        <item>Impróprio</item>
-    </string-array>
-    <string-array name="indices_uv_level">
-        <item>Baixo</item>
-        <item>Moderado</item>
-        <item>Alto</item>
     </string-array>
     <string-array name="minute_rain_array">
         <item>Intensa</item>
@@ -177,12 +163,5 @@
         <item>%1$sm/s</item>
         <item>%1$smph</item>
         <item>%1$skn</item>
-    </string-array>
-    <string-array name="wind_unit_simple">
-        <item>Escala beaufort</item>
-        <item>km/h</item>
-        <item>m/s</item>
-        <item>mph</item>
-        <item>kn</item>
     </string-array>
 </resources>

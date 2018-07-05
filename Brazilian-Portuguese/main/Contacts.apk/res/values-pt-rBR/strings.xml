@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <string name="status_bar_notification_info_overflow">999+</string>
     <string name="accessibility_calllog_detail">Registro de chamadas detalhado</string>
     <string name="accessibility_contact_detail">Detalhes do contato</string>
     <string name="account_container_title">Importado de</string>
-    <string name="account_default">Telefone</string>
-    <string name="account_phone">Apenas no telefone, não sincronizado</string>
+    <string name="account_default">Local</string>
+    <string name="account_phone">Apenas no dispositivo, sem sincronização</string>
+    <string name="account_sdn">SDN</string>
+    <string name="account_sdn2">SDN %d</string>
     <string name="account_sim">Cartão SIM</string>
     <string name="account_sim2">Cartão SIM %d</string>
     <string name="account_type_format">Contato %1$s</string>
@@ -55,7 +58,7 @@
     <string name="button_join_service_number">Adicionar número de serviço</string>
     <string name="button_my_center">Perfil</string>
     <string name="button_scan">Pesquisar novamente</string>
-    <string name="caching_vcard_message">Armazenando vCard na cache do telefone…</string>
+    <string name="caching_vcard_message">Armazenando vCard no cache do dispositivo…</string>
     <string name="caching_vcard_title">Armazenando em cache</string>
     <string name="callAgain">Chamar novamente</string>
     <string name="callBack">Retornar chamada</string>
@@ -97,6 +100,7 @@
     <string name="call_sim_menu_title_suffix">(Primário)</string>
     <string name="call_telex">Ligar para telex</string>
     <string name="call_tty_tdd">Ligar para TTY/TDD</string>
+    <string name="call_type_and_date">%1$s %2$s</string>
     <string name="call_unit">CNY</string>
     <string name="call_work">Ligar para trabalho</string>
     <string name="call_work_mobile">Ligar para celular comercial</string>
@@ -162,7 +166,7 @@
     <string name="chat_qq">Bater papo usando o QQ</string>
     <string name="chat_skype">Bater papo usando o Skype</string>
     <string name="chat_yahoo">Bater papo usando o Yahoo</string>
-    <string name="checkhint">Verifique o telefone de destino</string>
+    <string name="checkhint">Verifique o dispositivo de destino</string>
     <string name="clearCallLogConfirmation">Todos os seus registros de chamada serão excluídos.</string>
     <string name="clearCallLogConfirmation_title">Limpar todos os registros de chamada?</string>
     <string name="clearCallLogProgress_title">Limpando o registro de chamadas…</string>
@@ -187,9 +191,9 @@
     <string name="combined_title_and_miprofile_swaped_huge_mode">"%1$s
 %2$s"</string>
     <string name="composer_failed_to_get_database_infomation">Não foi possível obter as informações do banco de dados.</string>
-    <string name="composer_has_no_exportable_contact">Não existem contatos exportáveis. Caso você tenha contatos em seu telefone, alguns provedores de dados podem não permitir que eles sejam exportados.</string>
+    <string name="composer_has_no_exportable_contact">Não existem contatos exportáveis. Se você tem contatos no seu dispositivo, alguns provedores de dados podem não permitir que os contatos sejam exportados do dispositivo.</string>
     <string name="composer_not_initialized">O Editor de vCards não iniciou corretamente.</string>
-    <string name="confirm_delete_contact_all_call_logs">Limpar registro de chamadas?</string>
+    <string name="confirm_delete_contact_all_call_logs">Limpar o histórico de %s?</string>
     <string name="confirm_delete_selected_all_call_logs">Limpar registro de chamadas?</string>
     <string name="confirm_delete_sim_entry_miui_title">Excluir</string>
     <string name="confirm_export_message">Sua lista de contatos será exportada para o arquivo: %s.</string>
@@ -209,8 +213,9 @@
     <string name="contact_detail_calllog_call_note_tips">Anotações</string>
     <string name="contact_detail_calllog_call_record_tips">Chamada gravada</string>
     <string name="contact_detail_calllog_empty">Nenhum registro</string>
-    <string name="contact_detail_entry_pay">Pagar</string>
+    <string name="contact_detail_entry_pay">Enviar dinheiro</string>
     <string name="contact_detail_entry_pay_dialog_title">Selecionar número de telefone</string>
+    <string name="contact_detail_entry_pay_request">Solicitar dinheiro</string>
     <string name="contact_detail_menu_delete_miprofile">Excluir cartão</string>
     <string name="contact_detail_miprofile_accept">Trocar cartões de contato</string>
     <string name="contact_detail_miprofile_accept_fail_toast">Não foi possível trocar cartões de contato</string>
@@ -291,7 +296,7 @@ Cartões de contatos estão desativados"</string>
     <string name="deleteConfirmation_title">Excluir este contato?</string>
     <string name="delete_call_log_message">Limpar registro de chamadas?</string>
     <string name="delete_call_log_selected_title">Limpar o(s) registro(s) de chamada(s) selecionado(s)?</string>
-    <string name="delete_call_log_title">Escolher registro de chamadas</string>
+    <string name="delete_call_log_title">Limpar histórico de chamadas</string>
     <string name="delete_contact_calllog_title">Limpar registro de chamadas?</string>
     <string name="delete_dial_input">Excluir</string>
     <string name="delete_duplicate">Unir</string>
@@ -362,9 +367,9 @@ Cartões de contatos estão desativados"</string>
     <string name="device_import_progress_message">Importando…</string>
     <string name="device_import_progress_toast">%1$d contatos importados</string>
     <string name="device_import_title">Importar</string>
-    <string name="device_list_title">Escolha um telefone</string>
-    <string name="device_other_guide">O outro telefone suporta Bluetooth?</string>
-    <string name="device_other_title">Importar de outros telefones</string>
+    <string name="device_list_title">Escolha um dispositivo</string>
+    <string name="device_other_guide">O outro dispositivo suporta Bluetooth?</string>
+    <string name="device_other_title">Importar de outro dispositivo</string>
     <string name="device_paired_dialog_message">Obtendo contatos…</string>
     <string name="device_paired_dialog_title">Obtendo contatos…</string>
     <string name="device_pairing_dialog_message">Emparelhando…</string>
@@ -454,7 +459,7 @@ Para evitar consultas frequentes, nós atualizamos o saldo apenas uma vez por di
     <string name="export_to_sim2">Exportar para o cartão SIM 2</string>
     <string name="export_to_sim_prepare_title">Preparando…</string>
     <string name="export_to_sim_title">Exportando…</string>
-    <string name="export_vcard_description">Exportar vCard para armazenamento do telefone</string>
+    <string name="export_vcard_description">Exportar vCard para o armazenamento do telefone</string>
     <string name="exporting_contact_failed_message">"Os dados de contato não foram exportados.
 Motivo: \"%s\""</string>
     <string name="exporting_contact_failed_title">Não foi possível exportar</string>
@@ -485,6 +490,7 @@ Motivo: \"%s\""</string>
     <string name="force_touch_new_contact">Novo contato</string>
     <string name="foundTooManyContacts">Mais de %d encontrados.</string>
     <string name="frequentList">Frequente</string>
+    <string name="from_account_format">%1$s</string>
     <string name="full_name">Nome</string>
     <string name="gallery">Galeria</string>
     <string name="generic_no_account_prompt">Mantenha seus contatos seguros, mesmo se você perder seu telefone: sincronize com um serviço on-line.</string>
@@ -532,7 +538,7 @@ Motivo: \"%s\""</string>
     <string name="import_contact_card_button">Importar contato</string>
     <string name="import_failure_no_vcard_file">Nenhum arquivo vCard encontrado no armazenamento.</string>
     <string name="import_from_onekey_migrate">Importar com o Mi Mover</string>
-    <string name="import_from_other_phone">Importar de outro telefone</string>
+    <string name="import_from_other_device">Importar de outro dispositivo</string>
     <string name="import_from_sdcard">Importar do armazenamento</string>
     <string name="import_from_sim">Importar do cartão SIM</string>
     <string name="import_from_sim1">Importar do cartão SIM 1</string>
@@ -550,7 +556,7 @@ Motivo: \"%s\""</string>
     <string name="import_to_xiaomi_account_progress_message">Importando…</string>
     <string name="import_to_xiaomi_account_progress_title">Importar contatos para a Conta Mi</string>
     <string name="import_to_xiaomi_account_title">Importar para a Conta Mi</string>
-    <string name="import_vcard_description">Importar contatos do armazenamento interno do seu telefone</string>
+    <string name="import_vcard_description">Importar contatos do armazenamento do seu telefone</string>
     <string name="import_vcard_dialog_message">Importar vCard?</string>
     <string name="importing_sim_contacts_miui">Importando contatos do cartão SIM…</string>
     <string name="importing_sim_contacts_miui_prepare">Preparando contatos…</string>
@@ -561,8 +567,9 @@ Motivo: \"%s\""</string>
     <string name="insertGroupDescription">Criar grupo</string>
     <string name="invalidContactMessage">O contato não existe</string>
     <string name="keep_local">Não sincronizar</string>
-    <string name="keep_local_btn">Usar o armazenamento interno</string>
+    <string name="keep_local_btn">Usar armazenamento interno do dispositivo</string>
     <string name="label_custom_type">Personalizado</string>
+    <string name="label_duplicate_count">(%1$d)</string>
     <string name="label_no_duplicate_contacts">Nenhum contato duplicado</string>
     <string name="label_notes">Anotações</string>
     <string name="label_sip_address">Chamada pela internet</string>
@@ -666,6 +673,7 @@ Motivo: \"%s\""</string>
     <string name="miprofile_contact_header">Contatos com cartões de contato</string>
     <string name="miprofile_contact_meaasge">Contatos locais</string>
     <string name="miprofile_contact_verifying">Verificando</string>
+    <string name="miprofile_delete_alertdialog_message">@string/miprofile_switch_off_alertdialog_message</string>
     <string name="miprofile_edit_title">Editar perfil</string>
     <string name="miprofile_error_accept_self">Não é possível trocar o seu próprio cartão de contato</string>
     <string name="miprofile_error_no_miaccount">Fazer login em sua Conta Mi</string>
@@ -753,10 +761,11 @@ Motivo: \"%s\""</string>
 • Faça backup de seus contatos com segurança."</string>
     <string name="no_contact_details">Não há informações adicionais para este contato.</string>
     <string name="no_contact_in_other_phone">Nenhum contato detectado</string>
-    <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no cartão SIM. Tente importá-los do cartão SIM para armazenamento interno do telefone e então tente novamente.</string>
+    <string name="no_contacts_dialog_message">Os contatos podem estar armazenados no seu cartão SIM. Tente importá-los do seu cartão SIM para o armazenamento interno do dispositivo e tente novamente.</string>
     <string name="no_contacts_dialog_title">Não é possível encontrar contatos</string>
     <string name="no_contacts_selected">Nenhum contato selecionado.</string>
     <string name="no_sdcard_message">Cartão SD não encontrado.</string>
+    <string name="no_setting_menu">Nenhuma opção de menu disponível</string>
     <string name="non_phone_add_to_contacts">Adicionar a um contato existente</string>
     <string name="non_phone_caption">Número de telefone</string>
     <string name="non_phone_close">Fechar</string>
@@ -782,7 +791,7 @@ Motivo: \"%s\""</string>
     <string name="organizationLabelsGroup">Organização</string>
     <string name="organization_company_and_title">%1$s, %2$s</string>
     <string name="other_contacts">Outros contatos</string>
-    <string name="other_phone">Outros telefones</string>
+    <string name="other_phone">Outros dispositivos</string>
     <string name="path_batch_delete">Apps do sistema/Contatos/Organizar contatos/Exclusão múltipla</string>
     <string name="path_contacts_display">Apps do sistema/Contatos/Preferências de exibição</string>
     <string name="path_contacts_more">Apps do sistema/Contatos/Organizar contatos</string>
@@ -809,10 +818,13 @@ Motivo: \"%s\""</string>
     <string name="path_wipe_data">Apps do sistema/Contatos/Organizar contatos/Limpar dados</string>
     <string name="payphone">Telefone público</string>
     <string name="people">Contatos</string>
+    <string name="percent_sign">%</string>
+    <string name="percentage">%s%%</string>
     <string name="phoneLabelsGroup">Telefone</string>
+    <string name="phone_info_divider">" ｜ "</string>
     <string name="phone_number_too_long_toast">Número muito longo</string>
     <string name="phone_primary">Primário</string>
-    <string name="photoPickerNotFoundText">Nenhuma imagem disponível no telefone.</string>
+    <string name="photoPickerNotFoundText">Nenhuma imagem disponível no dispositivo.</string>
     <string name="photo_fragment">Foto</string>
     <string name="photo_load_failed">Não foi possível carregar a foto</string>
     <string name="pick_new_photo">Escolher uma nova foto de %s</string>
@@ -845,6 +857,9 @@ Motivo: \"%s\""</string>
     <string name="pref_key_photo_word_title">Atribuir fotos a contatos</string>
     <string name="pref_key_rebuild_t9_index_message">Recriar índice para solucionar problemas de pesquisa</string>
     <string name="pref_key_rebuild_t9_index_title">Recriar índice de dados</string>
+    <string name="pref_key_sdn_manage">Ver SDN</string>
+    <string name="pref_key_sdn_manage1">Ver cartão SDN 1</string>
+    <string name="pref_key_sdn_manage2">Ver cartão SDN 2</string>
     <string name="pref_key_sim_manage">Cartões SIM</string>
     <string name="pref_key_sim_manage1">Configurar o cartão SIM 1</string>
     <string name="pref_key_sim_manage2">Configurar o cartão SIM 2</string>
@@ -874,9 +889,10 @@ Motivo: \"%s\""</string>
     <string name="preference_key_trash_bin_title">Recuperar contatos</string>
     <string name="preference_other">Outro</string>
     <string name="preference_others">Outros</string>
-    <string name="preference_phone">Telefone</string>
+    <string name="preference_phone">Dispositivo</string>
     <string name="preference_phone_more_title">Configurações de chamada</string>
     <string name="preference_remove_duplicate">Unir contatos duplicados</string>
+    <string name="preference_show_firewall_calllog">Mostrar chamadas bloqueadas no histórico</string>
     <string name="preference_show_yellowpage_tab_description">As Páginas amarelas podem não funcionar corretamente quando este recurso estiver desativado.</string>
     <string name="preference_show_yellowpage_tab_title">Mostrar Páginas amarelas</string>
     <string name="preference_simple_mode_description">Exibir fotos e outras informações na visualização de lista</string>
@@ -966,12 +982,14 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="scan_qrcode_card_hint2" />
     <string name="scanning_sdcard_failed_message">Motivo: \"%s\".</string>
     <string name="scanning_sdcard_failed_title">O armazenamento não pôde ser verificado</string>
+    <string name="sdnContacts_empty">Nenhum SDN</string>
+    <string name="sdnContacts_emptyLoading">Carregando SDN…</string>
     <string name="searchHint">Pesquisar contatos</string>
     <string name="search_batch_delete">Organizar;Contatos</string>
     <string name="search_contacts_display">Contatos;Exibição</string>
     <string name="search_contacts_more">Organizar;Contatos</string>
     <string name="search_contacts_recovery">Contatos</string>
-    <string name="search_contacts_setting">Configurações de contatos;Mostrar fotos e informações;Atribuir fotos a contatos;Importar e exportar;Compartilhar;Importar do cartão SD;Importar do cartão SIM;Importar de outro telefone;Exportar para o cartão SD;Exportar para o cartão SIM;Compartilhar contatos;Preferências de exibição;Ocultar contatos sem número;Mostrar contatos do SIM;Listas a serem exibidas;Grupos inteligentes;Organizar contatos;Unir contatos duplicados;Exclusão múltipla;Limpar dados;Recriar índice de dados;T9;Cartões SIM;Armazenamento do cartão SIM;Introdução à recuperação de contatos;Fotos de contatos</string>
+    <string name="search_contacts_setting">Configurações de contatos;Mostrar fotos e informações;Atribuir fotos a contatos;Importar e exportar;Compartilhar;Importar do armazenamento;Importar do cartão SIM;Importar de outro telefone;Exportar para o armazenamento;Exportar para o cartão SIM;Compartilhar contatos;Preferências de exibição;Ocultar contatos sem número;Mostrar contatos do SIM;Listas a serem exibidas;Grupos inteligentes;Organizar contatos;Unir contatos duplicados;Exclusão múltipla;Limpar dados;Recriar índice de dados;T9;Cartões SIM;Armazenamento do cartão SIM;Introdução à recuperação de contatos;Fotos de contatos</string>
     <string name="search_display_only_phones">Contatos;Exibição</string>
     <string name="search_display_sim_contacts">Contatos;Exibição</string>
     <string name="search_export_to_sdcard">Contatos;Exportar;armazenamento</string>
@@ -994,12 +1012,12 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="search_simple_mode">Mostrar;info;fotos;Contatos</string>
     <string name="search_smart_group_title">Contatos;Exibição</string>
     <string name="search_wipe_data">Organizar;Contatos</string>
-    <string name="searching_vcard_message">Procurando por dados de vCard no cartão SD…</string>
+    <string name="searching_vcard_message">Procurando dados vCard no dispositivo…</string>
     <string name="select_all">Selecionar tudo</string>
     <string name="select_all_exceed">Não selecione mais de %1$d, não é possível selecionar tudo</string>
     <string name="select_exceed">Não selecione mais de %1$d</string>
     <string name="select_groups">Selecionar grupos</string>
-    <string name="select_none">Nada selecionado</string>
+    <string name="select_none">Nenhum item selecionado</string>
     <string name="select_show_contacts">Lista de contatos</string>
     <string name="select_vcard_title">Escolher arquivo vCard</string>
     <string name="send_contact_shortcut_todesktop_success">Adicionado à Tela inicial</string>
@@ -1050,6 +1068,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="sim_unloaded">O cartão SIM não está instalado</string>
     <string name="sina_weibo">Sina Weibo</string>
     <string name="single_group_list_empty">Nenhum membro no grupo</string>
+    <string name="smart_group_action_bar_title">%1$s: %2$s (%3$s)</string>
     <string name="smart_group_company_label">Empresas</string>
     <string name="smart_group_company_unavailable">Nenhuma informação de empresa</string>
     <string name="smart_group_frequency_1">No último mês</string>
@@ -1086,6 +1105,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="sms_work_pager">Enviar mensagem para pager comercial</string>
     <string name="social_widget_label">Contato</string>
     <string name="social_widget_loading">Carregando…</string>
+    <string name="special_code_security_exception">Não foi possível concluir a ação. Este não é o seu discador padrão.</string>
     <string name="splitConfirmation">Este contato será separado em vários contatos.</string>
     <string name="splitConfirmation_title">Separar contato?</string>
     <string name="starredList">Com estrela</string>
@@ -1096,6 +1116,7 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="strequentList">Favoritos</string>
     <string name="success_message_import_from_account">Importação concluída</string>
     <string name="summary_kind_title">Resumo</string>
+    <string name="sv">SV</string>
     <string name="t9_search_empty_create_contact">Novo contato</string>
     <string name="t9_search_empty_edit_contact">Adicionar aos contatos</string>
     <string name="t9_search_empty_send_sms">Enviar mensagem</string>
@@ -1113,8 +1134,8 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_copy_done">Concluído</string>
     <string name="toast_copying">Copiando…</string>
     <string name="toast_displaying_all_contacts">Exibindo todos os contatos</string>
-    <string name="toast_finish_delete_call_log">Registro de chamadas limpo</string>
-    <string name="toast_finish_delete_selected_call_log">Registro de chamadas limpo</string>
+    <string name="toast_finish_delete_call_log">Limpo com sucesso</string>
+    <string name="toast_finish_delete_selected_call_log">Limpo com sucesso</string>
     <string name="toast_for_failed_saving_nickname">Não foi possível salvar o apelido</string>
     <string name="toast_for_saving_nickname">Apelido salvo</string>
     <string name="toast_join_with_empty_contact">Insira o nome de contato antes de uní-lo a outro</string>
@@ -1122,7 +1143,6 @@ Para começar, toque no ícone Unir na parte inferior da tela."</string>
     <string name="toast_start_intent_failed">Não foi possível encontrar um app para executar esta ação</string>
     <string name="toast_text_copied">Texto copiado</string>
     <string name="today">Hoje</string>
-    <string name="tomorrow">Amanhã</string>
     <string name="transfer_accounts">Transferir contas</string>
     <string name="type_incoming">Chamada recebida</string>
     <string name="type_missed">Chamada perdida</string>
@@ -1181,6 +1201,7 @@ Selecione uma das seguintes opções:"</string>
     <string name="voip_audio_description">Chamada VoIP</string>
     <string name="voip_video_description">Videochamada VoIP</string>
     <string name="websiteLabelsGroup">Website</string>
+    <string name="widget_name_and_phonetic">%1$s (%2$s)</string>
     <string name="wipe_data">Limpar dados</string>
     <string name="yellowPageNavigationIconLabel">Páginas amarelas</string>
     <string name="yellowPageNavigationLabel">Páginas amarelas</string>
@@ -1206,6 +1227,5 @@ Selecione uma das seguintes opções:"</string>
     <string name="yellowpage_navigation_send_to_desktop_succeeded">Adicionado à Tela inicial</string>
     <string name="yellowpage_search_the_yellowpage">Pesquisar Páginas amarelas</string>
     <string name="yellowpage_user_profile">Perfil</string>
-    <string name="yesterday">Ontem</string>
     <string name="zero_items_selected">Selecionar itens</string>
 </resources>

@@ -21,9 +21,8 @@
     <string name="find_device_stop_noise">Toque em OK para silenciar</string>
     <string name="find_device_noise_title">Alarme do Encontrar dispositivo</string>
     <string name="find_device_success_title">Encontrar dispositivo</string>
-    <string name="find_device_notice_p1">Vá para</string>
-    <string name="find_device_notice_p3">"para localizar, bloquear ou redefinir seu telefone.
-Se você trocar de cartões SIM, outro SMS será enviado automaticamente para reativar este recurso."</string>
+    <string name="find_device_notice">Acesse&lt;br />&lt;b>&lt;font color=#e84700>i.mi.com&lt;/font>&lt;/b>&lt;br />para localizar, bloquear ou restaurar o seu dispositivo.</string>
+    <string name="find_device_notice_sms_alert">Se você trocar seus cartões SIM, outro SMS pode ser enviado automaticamente para reativar este recurso.</string>
     <string name="i_know">OK</string>
     <string name="unlock_error_network">Não é possível conectar-se à rede</string>
     <string name="unlock_error_device_id">Não é possível obter a ID do dispositivo</string>
@@ -57,14 +56,14 @@ Se você trocar de cartões SIM, outro SMS será enviado automaticamente para re
     <string name="login_failed">Não foi possível fazer o login. %s.</string>
     <string name="change_find_device_status_failed">Não foi possível desbloquear. %s.</string>
     <string name="unlock_help_title">Ajuda de desbloqueio:</string>
-    <string name="unlock_help">"Permaneça conectado à internet
-Certifique-se de que você está usando um cartão SIM funcional, e que seu dispositivo não está conectado a uma rede instável
+    <string name="unlock_help">"Permaneça conectado à rede.
+Certifique-se que você está usando um cartão SIM ativado (se seu dispositivo suporta cartões SIM), e que seu dispositivo está conectado a uma rede Wi-Fi válida.
 
 Esqueceu a senha?
-Acesse id.mi.com para redefinir a sua senha
+Acesse id.mi.com para redefiní-la.
 
 Outros motivos
-Faça o login em i.mi.com e tente desbloquear seu dispositivo por lá"</string>
+Faça o login em i.mi.com e tente desbloquear seu dispositivo por lá."</string>
     <string name="passport_vcode_prompt_long">Inserir código de verificação</string>
     <string name="passport_trust_device">Confiar neste dispositivo</string>
     <string name="passport_verify">Verificar</string>
@@ -78,6 +77,8 @@ Faça o login em i.mi.com e tente desbloquear seu dispositivo por lá"</string>
     <string name="default_lock_msg_words_with_phone">Oi! Eu perdi este telefone. Por favor, você poderia entrar em contato? Obrigado!</string>
     <string name="default_lock_msg_words">Este dispositivo está associado a uma Conta Mi existente. Por razões de segurança, você precisa inserir a senha desta conta para ativar o dispositivo.</string>
     <string name="lock_msg_phone">Info. de contato: %s</string>
+    <string name="emergency_call">Chamada de emergência</string>
+    <string name="return_to_call">Voltar à chamada</string>
     <string name="default_debt_msg_words">"Este dispositivo está bloqueado devido a uma mensalidade atrasada.
 Entre em contato com seu vendedor para mais detalhes."</string>
     <string name="sys_notification_async_verify_title">Reativar o Encontrar dispositivo</string>

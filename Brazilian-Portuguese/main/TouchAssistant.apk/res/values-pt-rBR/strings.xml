@@ -15,6 +15,7 @@
     <string name="hide_touch_assistant_intro">Oculta o Acesso rápido nos apps selecionados.</string>
     <string name="hide_when_fullscreen">Ocultar em tela cheia</string>
     <string name="hide_when_fullscreen_intro">Ocultar ao entrar em modo tela cheia.</string>
+    <string name="mi_wallet_summary">Cartão de transporte/Mi Pay/Cartão de acesso</string>
     <string name="motion_behavior">Gesto preferido</string>
     <string name="name_alipay_payment_code">Pagamentos Alipay</string>
     <string name="name_alipay_scan">Digitalizar código Alipay</string>
@@ -22,6 +23,7 @@
     <string name="name_handy_mode">Modo para uma mão</string>
     <string name="name_long_press_power_key">Segurar botão Liga/Desliga</string>
     <string name="name_memory_clean">Limpar cache</string>
+    <string name="name_mi_wallet">Mi Wallet</string>
     <string name="name_music_next_song">Próxima música</string>
     <string name="name_music_prev_song">Música anterior</string>
     <string name="name_music_toggle">Reproduzir/pausar música</string>

@@ -24,6 +24,7 @@
     <string name="title_switch_file">Excluir estes arquivos?</string>
     <string name="msg_switch_photo">Excluir estas fotos no Primeiro Espaço após serem movidas?</string>
     <string name="msg_switch_file">Excluir estes arquivos no Primeiro Espaço após serem movidos?</string>
+    <string name="msg_switch_file_second">Excluir estes arquivos no Segundo Espaço depois que forem movidos?</string>
     <string name="delete_src_photo">Excluir fotos</string>
     <string name="delete_src_file">Excluir arquivos</string>
     <string name="retain_src_photo">Manter fotos</string>
@@ -58,6 +59,8 @@
     <string name="wating">Aguarde…</string>
     <string name="Active">Ativo</string>
     <string name="ok_button">OK</string>
+    <string name="remove_button">Remover e reiniciar</string>
+    <string name="remove_button_time">Remover e reiniciar (%ds)</string>
     <string name="cancel_button">Cancelar</string>
     <string name="list_empty_text">Vazio</string>
     <string name="list_empty_text_xspace">Instale o WeChat/QQ/Weibo, crie dual apps, e tente novamente.</string>
@@ -65,6 +68,8 @@
     <string name="xspace_setting_label">Configuração dos Dual apps</string>
     <string name="xspace_account">Contas de Dual apps</string>
     <string name="declare_dialog_title">Sobre os dual apps</string>
+    <string name="stop_xspace_alert_title">Excluindo contas de dual apps</string>
+    <string name="stop_xspace_alert_content">Você excluiu todos os dual apps. Excluir as contas e dados dos dual apps também? Depois disso, você precisará criar os dual apps novamente quando precisar deles.</string>
     <string name="xspace_loading_msg">Carregando apps…</string>
     <string name="xspace_header">Dual apps</string>
     <string name="xspace_introduce">Recomendado</string>
@@ -77,6 +82,7 @@ Alguns dual apps requerem o suporte à Estrutura de Serviços do Google. Nestes 
     <string name="xspace_install_failed">Não foi possível criar o app</string>
     <string name="xspace_uninstalling">Desinstalando…</string>
     <string name="xspace_install_completed">Ícone adicionado à Tela inicial</string>
+    <string name="xspace_install_completed_global">Ícone adicionado à bandeja</string>
     <string name="xspace_uninstall_completed">Dual app desinstalado com sucesso</string>
     <string name="xspace_uninstall_dialog_title">Desinstalar dual app</string>
     <string name="xspace_uninstall_dialog_content">Desinstalar o dual app removerá seus dados correspondentes.</string>
@@ -177,6 +183,10 @@ esta funcionalidade será adicionada ao Segundo Espaço automaticamente."</strin
     <string name="notification_from_second_user">Mostrar notificações do Segundo Espaço</string>
     <string name="radio_button_icon_switch_title">Usando um atalho</string>
     <string name="radio_button_password_switch_title">Usando uma senha</string>
+    <string name="reset_password_dialog_title">Não é possível ocultar o atalho do Segundo Espaço</string>
+    <string name="reset_password_dialog_message">Você está usando tipos diferentes de senha para o Primeiro e Segundo espaços. O Segundo Espaço deve usar o mesmo tipo de senha que o Primeiro Espaço para que o atalho seja oculto.</string>
+    <string name="reset_password_dialog_positve_btn_title">Alterar</string>
+    <string name="entrance_reopen_toast_msg">Mostrando atalho do Segundo Espaço devido a tipos de senha diferentes</string>
     <string name="settings_cross_notification_title">Notificações</string>
     <string name="settings_cross_notification_summary">Receber notificações do outro Espaço</string>
     <string name="settings_switch_shortcut_summary">Mostrar atalho na Tela inicial do Primeiro Espaço</string>
@@ -279,10 +289,12 @@ para acessar o Segundo Espaço através da Tela de bloqueio"</string>
     <string name="xspace_weixin_title">WeChat</string>
     <string name="weixin_pay">WeChat Pay</string>
     <string name="weixin_share_sign">Fazer login e compartilhar</string>
+    <string name="use_xiaoai_open">Ligar tela com o assistente de voz</string>
     <string name="xspace_weibo_title">Weibo</string>
     <string name="weibo_send">Enviar para o Weibo</string>
     <string name="xspace_qq_title">QQ</string>
     <string name="qq_send">Enviar para amigos do QQ/computador</string>
+    <string name="qq_login">Fazer login no QQ</string>
     <string name="xspace_default_setting_label">App padrão</string>
     <string name="xspace_default_app_title">App padrão</string>
     <string name="xspace_default_app_summary">Definir app padrão para pagamentos, compartilhamento, favoritos e mais.</string>
@@ -320,7 +332,7 @@ para acessar o Segundo Espaço através da Tela de bloqueio"</string>
     <string name="can_not_delete_when_calling">Não é possível excluir Espaços durante uma chamada</string>
     <string name="support_desc">Serviços de segurança fornecido por Spaces Mobile</string>
     <string name="sdcardfs_dialog_title">Atualização importante</string>
-    <string name="sdcardfs_dialog_message">O MIUI 9 tem um novo sistema de arquivos. Os dados antigos podem ser incompatíveis com ele. Para resolver este problema, siga os passos para a instalação da atualização. Seu dispositivo reiniciará duas vezes durante esta atualização.</string>
+    <string name="sdcardfs_dialog_message">Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para resolver este problema, siga os passos para a instalação da atualização. Seu dispositivo reiniciará duas vezes durante esta atualização.</string>
     <string name="do_not_ask">Não perguntar novamente</string>
     <string name="gpg_message">Criar dual apps para jogos requer o uso do Google Play Jogos. Criar um dual app para o Google Play Jogos?</string>
     <string name="gpg_title">Dual app para o Google Play Jogos</string>
@@ -352,12 +364,19 @@ Dois espaços. Um dispositivo."</string>
     <string name="remove_user_click_message">*Se você não tem itens importantes no Segundo Espaço, %s</string>
     <string name="remove_user_click_message_action">você pode excluir o Segundo Espaço e reiniciar seu dispositivo agora.</string>
     <string name="sdcradfs_dialog_in_owner_title">Segundo Espaço</string>
-    <string name="sdcradfs_dialog_in_owner_message">"O MIUI 9 tem um novo sistema de arquivos. Os dados antigos podem ser incompatíveis com ele. Para atualizar, mova os itens do Segundo Espaço, reinicie seu dispositivo, e crie o Segundo Espaço novamente.
+    <string name="sdcradfs_dialog_in_owner_message">"Um novo sistema de arquivos foi introduzido nesta atualização. Os dados antigos podem ser incompatíveis com ele. Para atualizar, mova os itens do Segundo Espaço, reinicie seu dispositivo, e crie o Segundo Espaço novamente.
 Se você não atualizar, os dual apps também podem não funcionar corretamente."</string>
     <string name="sdcradfs_dialog_in_sec_title">Atualização importante</string>
     <string name="sdcradfs_dialog_in_sec_message">"Para atualizar, você precisa excluir o seu Segundo Espaço e criá-lo novamente. Mova os dados do Segundo Espaço para o Primeiro Espaço e reinicie o dispositivo para concluir a atualização.
 Se você não atualizar, os dual apps podem não funcionar corretamente também."</string>
     <string name="space_created_success">Segundo Espaço criado com sucesso</string>
+    <string name="encrypt_space_delete_dialog_title">Atenção</string>
+    <string name="encrypt_space_delete_dialog_message">Você está prestes a atualizar o sistema. Após a atualização, os dados do Segundo Espaço se tornarão incompatíveis. Para evitar isso, mova todos os dados para o Primeiro Espaço, exclua o Segundo Espaço e crie-o novamente.</string>
+    <string name="encrypt_space_delete_dialog_click_message">*Se você não precisar mover os dados, %s</string>
+    <string name="encrypt_space_delete_dialog_click_message_action">exclua e crie o Segundo Espaço agora.</string>
+    <string name="encrypt_space_delete_dialog_positive_text">Mover dados</string>
+    <string name="encrypt_space_delete_notification_title">Segundo Espaço</string>
+    <string name="encrypt_space_delete_notification_message">Exclua o seu Segundo Espaço e crie um novo para atualizar seu dispositivo corretamente.</string>
     <string name="space_create_guide_title_1">Proteja sua privacidade</string>
     <string name="space_create_guide_desc_1">Armazene apps e fotos de forma segura</string>
     <string name="space_create_guide_title_2">Crie a qualquer momento</string>
@@ -368,4 +387,15 @@ Se você não atualizar, os dual apps podem não funcionar corretamente também.
     <string name="second_space_desktop_tips_dialog_title">Atualização importante</string>
     <string name="second_space_desktop_tips_dialog_positive_text">Entendi</string>
     <string name="second_space_desktop_tips_dialog_message">Depois desta atualização, os ícones para mover dados e gerenciar o Segundo Espaço não ficarão mais disponíveis na Tela inicial. Você poderá acessar os recursos correspondentes nas Configurações.</string>
+    <string name="green_guard">Controles parentais</string>
+    <string name="bind_device">Adicionar dispositivos</string>
+    <string name="green_guard_des1">Adicione dispositivos para gerenciá-los remotamente</string>
+    <string name="green_guard_title2">Ver info. de localização</string>
+    <string name="green_guard_des2">Saiba onde todos os dispositivos gerenciados estão</string>
+    <string name="green_guard_title3">Gerenciar apps</string>
+    <string name="green_guard_des3">Controle apps instalados e restrinja a utilização</string>
+    <string name="experience_more_features">Adicione um dispositivo para ver todos os recursos</string>
+    <string name="can_not_switch_when_green_kid_active">A alteração para o Segundo Espaço é restringida pelos controles parentais</string>
+    <string name="need_network_when_bind">Conecte-se à rede antes de adicionar dispositivos</string>
+    <string name="this_function_can_not_use_in_second_space">Este recurso só pode ser usado no Primeiro Espaço</string>
 </resources>

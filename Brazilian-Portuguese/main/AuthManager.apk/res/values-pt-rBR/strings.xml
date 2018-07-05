@@ -25,8 +25,6 @@
     <string name="HIPS_Perm_VideoRecorder_Desc">acessar a câmera para captura de imagem ou vídeo</string>
     <string name="HIPS_Perm_AudioRecorder">Gravar áudio</string>
     <string name="HIPS_Perm_AudioRecorder_Desc">gravar áudio e chamadas telefônicas</string>
-    <string name="HIPS_Perm_Mobile_Connectivity">Alterar conectividade de dados móveis</string>
-    <string name="HIPS_Perm_Mobile_Connectivity_Desc">ativar ou desativar os dados móveis</string>
     <string name="HIPS_Perm_WIFI_Connectivity">Alterar a conectividade Wi-Fi</string>
     <string name="HIPS_Perm_WIFI_Connectivity_Desc">ativar ou desativar o Wi-Fi</string>
     <string name="HIPS_Perm_Bluetooth_Connectivity">Alterar a conectividade Bluetooth</string>

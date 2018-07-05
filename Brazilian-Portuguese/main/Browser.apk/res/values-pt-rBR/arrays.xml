@@ -48,6 +48,10 @@
         <item>Telefone</item>
         <item>Tablet</item>
     </string-array>
+    <string-array name="pref_navscreen_layoutstate_choices">
+        <item>Vertical view</item>
+        <item>Horizontal view</item>
+    </string-array>
     <string-array name="pref_text_zoom_choices">
         <item>Muito pequeno</item>
         <item>Pequeno</item>
@@ -74,7 +78,7 @@
         <item>Siga as Olimpíadas com a Mi</item>
     </string-array>
     <string-array name="weather_type">
-        <item>Ensolarado</item>
+        <item>Limpo</item>
         <item>Nublado</item>
         <item>Nublado</item>
         <item>Nebuloso</item>

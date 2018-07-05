@@ -113,10 +113,6 @@
     <string name="maml_component_customization_title">Configurações</string>
     <string name="default_name">Padrão</string>
     <string name="resource_select">Selecionar</string>
-    <string name="group_name_contacts">Contatos</string>
-    <string name="group_name_friends">Amigos</string>
-    <string name="group_name_family">Família</string>
-    <string name="group_name_coworkers">Colegas</string>
     <string name="fp_nav_center_action_choose_dlg_title">Ativar Toque rápido</string>
     <string name="fp_nav_center_action_choose_dlg_msg">Você pode retornar para a Tela inicial ao tocar suavemente no botão Início. Você pode ativar ou desativar esta função nas Configurações > Configurações adicionais > Botões > Tocar no botão Início para voltar à Tela inicial.</string>
     <string name="fp_nav_center_action_choose_dlg_positive_btn_text">Ativar</string>
@@ -171,4 +167,9 @@
     <string name="switching_tv">Alternando…</string>
     <string name="switch_desc_tv">Dois espaços. Um dispositivo.</string>
     <string name="switch_brand_desc_tv">Serviços de segurança fornecidos pos Spaces Mobile</string>
+    <string name="miui_forbid_poweroff_when_device_locked">Não é possível desligar, o dispositivo está bloqueado.</string>
+    <string name="super_resolution_maintain_tips">A super resolução ainda não está disponível.</string>
+    <string name="wifi_assistant_wifi_no_internet">Esta rede Wi-Fi não tem acesso à internet</string>
+    <string name="wifi_assistant_wifi_no_internet_detail">Toque para ver detalhes</string>
+    <string name="resolver_app_recommend_flag">Recommend</string>
 </resources>

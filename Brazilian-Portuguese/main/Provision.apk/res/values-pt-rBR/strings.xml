@@ -15,17 +15,21 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="sim_card_detection_info">Para inserir seu cartão SIM, leia as instruções que acompanham o seu dispositivo.</string>
     <string name="sim_card_detecting">Procurando um cartão SIM…</string>
     <string name="sim_card_detecting_check">Não foi possível encontrar o cartão SIM. Certifique-se de que o cartão SIM está instalado corretamente e que você possui saldo suficiente.</string>
+    <string name="sim_card_detection_mobile_not_available">O cartão sim não pôde se conectar à rede</string>
+    <string name="sim_scard_detecting_check_mobile_not_available">O seu cartão SIM não pôde se conectar a uma operadora válida. Certifique-se de que você tem saldo suficiente na sua conta e tente se conectar novamente.</string>
+    <string name="sim_card_detecting_confirm_turn_on_network">Permitir a conexão às redes de dados móveis? Caso permita, o cartão SIM inserido será usado para conectar-se à redes de dados móveis.</string>
     <string name="other_settings">Configurações adicionais</string>
     <string name="other_settings_location">Localização</string>
-    <string name="other_settings_location_summary">Permitir que apps acessem sua localização.</string>
+    <string name="other_settings_location_summary">Permitir que apps acessem sua localização</string>
     <string name="other_settings_user_experience">Programa de Experiência do Usuário</string>
-    <string name="other_settings_user_experience_summary">Ajude a melhorar nossos produtos e serviços ao enviar dados de uso anônimos.</string>
+    <string name="other_settings_user_experience_summary">Ajude-nos a melhorar nossos produtos e serviços compartilhando suas estatísticas de uso conosco. Ver detalhes</string>
+    <string name="other_settings_user_experience_summary_index">Ver detalhes</string>
     <string name="other_settings_upload_debug_log_title">Enviar dados de diagnóstico automaticamente</string>
-    <string name="other_settings_upload_debug_log_summary">As informações que coletamos podem conter dados pessoais. Elas serão usadas para localizar e analisar problemas no sistema e nunca para identificá-lo pessoalmente.</string>
-    <string name="other_settings_auto_update">Instalar automaticamente</string>
-    <string name="other_settings_auto_update_summary">O MIUI selecionará o melhor momento para instalar as atualizações.</string>
-    <string name="other_settings_ad_enable">Recomendação de anúncios personalizados</string>
-    <string name="other_settings_ad_enable_summary">Recomendar anúncios personalizados com base em seus dados de comportamento</string>
+    <string name="other_settings_upload_debug_log_summary">Estatísticas de uso que nos ajudam a localizar e corrigir problemas podem conter suas informações pessoais</string>
+    <string name="other_settings_auto_update">Atualizar automaticamente</string>
+    <string name="other_settings_auto_update_summary">O MIUI selecionará o melhor momento para instalar as atualizações</string>
+    <string name="other_settings_ad_enable">Recomendação personalizada de anúncios</string>
+    <string name="other_settings_ad_enable_summary">Visualizar anúncios personalizados com base em seus dados de comportamento</string>
     <string name="back">Voltar</string>
     <string name="next">Avançar</string>
     <string name="skip_underline">Pular etapa</string>
@@ -41,12 +45,12 @@ Ver a Política de Privacidade do teclado selecionado."</string>
     <string name="ime_privacy_policy">Política de Privacidade para o teclado selecionado</string>
     <string name="ime_privacy_policy_no_network">Nenhuma conexão de rede. Veja a Política de Privacidade para este teclado em %s.</string>
     <string name="terms_of_use">Termos e Condições</string>
-    <string name="terms_of_use_label">"Sua privacidade é importantíssima para nós. Por favor leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos e quais opções estão disponíveis para você.
+    <string name="terms_of_use_label">"Sua privacidade é muito importante para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
-Você precisa concordar com nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. Os Serviços Mi, Serviços de ativação do Mi SIM, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, Componente de sistema MAB, MIUI Daemon e MSA, Web Apps, App vault, Estatísticas, Cartões Inteligentes, Mi Link e Conta Mi usarão a conexão de internet e obterão sua localização."</string>
-    <string name="terms_of_use_label_gms">"Sua privacidade é importantíssima para nós. Por favor leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos e quais opções estão disponíveis para você.
+Você precisa aceitar nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. Os Serviços Mi, Serviços de ativação de SIM Mi, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, MAB, Daemon MIUI e componentes de sistema MSA, Serviços de tradução, Apps Rápidos, App vault, Estatísticas, Smart Cards, Mi Link e Conta Mi usarão sua internet e obterão a sua localização."</string>
+    <string name="terms_of_use_label_gms">"Sua privacidade é muito importante para nós. Leia nossos Termos de Serviço e a Política de Privacidade para entender quais informações coletamos, como as usamos, e quais escolhas estão disponíveis para você.
 
-Você precisa concordar com nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. Os Serviços Mi, Serviços de ativação do Mi SIM, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, Componente de sistema MAB, MIUI Daemon e MSA, Web Apps, App vault, Estatísticas, Cartões Inteligentes, Mi Link, Conta Mi e Google Play Services usarão a conexão de internet e obterão sua localização."</string>
+Você precisa aceitar nossos Termos de Serviço e a Política de Privacidade antes de usar o MIUI. Os Serviços Mi, Serviços de ativação de SIM Mi, Mi Cloud, Encontrar dispositivo, Tela inicial, Centro de Jogos, MAB, Daemon MIUI e componentes de sistema MSA, Serviços de tradução, Apps Rápidos, App vault, Estatísticas, Smart Cards, Mi Link, Conta Mi e o Google Play Services usarão sua internet e obterão a sua localização."</string>
     <string name="user_agreement">Termos de Serviço</string>
     <string name="privacy_policy">Política de Privacidade</string>
     <string name="application_permissions">Permissões do app</string>
@@ -67,6 +71,7 @@ Você precisa concordar com nossos Termos de Serviço e a Política de Privacida
     <string name="desc_extra_international_fingerprint" />
     <string name="desc_international_fingerprint">Use sua impressão digital para desbloquear seu dispositivo ou fazer login em apps e serviços.</string>
     <string name="content_description_start">Iniciar</string>
+    <string name="start_up_slogan">Projetado para uma experiência em tela cheia</string>
     <string name="content_description_miui_version">MIUI 9</string>
     <string name="content_description_complete">Concluído</string>
     <string name="language_picker_other_languages_title">Mais idiomas</string>

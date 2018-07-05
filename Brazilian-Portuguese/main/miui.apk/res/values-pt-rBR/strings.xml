@@ -25,6 +25,7 @@
     <string name="deselect_all">Desmarcar</string>
     <string name="instruction">Instruções</string>
     <string name="sar">Informação de exposição à RF</string>
+    <string name="user_experience_program">Programa de Experiência do Usuário</string>
     <string name="abc_action_bar_up_description">Navegar para cima</string>
     <string name="abc_action_bar_home_description">Navegar para o início</string>
     <string name="time_picker_label_hour">H</string>
@@ -45,6 +46,7 @@
     <string name="size_giga_byte">GB</string>
     <string name="size_tera_byte">TB</string>
     <string name="size_peta_byte">PB</string>
+    <string name="size_suffix">%1$s%2$s</string>
     <string name="date_time_done">Concluído</string>
     <string name="date_picker_dialog_title">Definir data</string>
     <string name="time_picker_dialog_title">Definir hora</string>
@@ -64,6 +66,7 @@
     <string name="error_forbidden">A sincronização foi desativada devido a problemas com sua Conta Mi.</string>
     <string name="error_not_acceptable">A sincronização foi desativada.</string>
     <string name="more">Mais</string>
+    <string name="empty" />
     <string name="solar_term_slight_cold">Slight Cold</string>
     <string name="solar_term_great_cold">Great Cold</string>
     <string name="solar_term_spring_begins">Spring Begins</string>
@@ -588,4 +591,9 @@
     <string name="actionbar_immersion_button_more_description">Mais</string>
     <string name="actionbar_button_up_description">Voltar</string>
     <string name="clearable_edittext_clear_description">Limpar</string>
+    <string name="cancel_description">Cancel</string>
+    <string name="confirm_description">Confirm</string>
+    <string name="select_all_description">Select all</string>
+    <string name="deselect_all_description">Deselect all</string>
+    <string name="delete_description">Delete</string>
 </resources>
