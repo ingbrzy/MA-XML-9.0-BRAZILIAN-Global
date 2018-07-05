@@ -1401,7 +1401,6 @@ Selecione seu sistema operacional:"</string>
     <string name="private_sms_need_to_unlock">Senha requerida:</string>
     <string name="private_sms_recording_intro_header">Desenhe um padrão de desbloqueio:</string>
     <string name="private_sms_reset_by_account">Para redefinir sua senha, faça o login em sua Conta Mi</string>
-    <string name="process_kernel_label">SO Android</string>
     <string name="provision_activation">Ativado</string>
     <string name="provision_back">Voltar</string>
     <string name="provision_next">Avançar</string>
